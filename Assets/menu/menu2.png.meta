@@ -258,12 +258,12 @@ TextureImporter:
       name: menu2_6
       rect:
         serializedVersion: 2
-        x: 936
-        y: 892
-        width: 63
-        height: 69
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 504
+        y: 652
+        width: 68
+        height: 111
+      alignment: 9
+      pivot: {x: -1.9713639, y: -1.6479784}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -367,8 +367,8 @@ TextureImporter:
         y: 829
         width: 123
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5851996, y: 1.0544728}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -468,13 +468,13 @@ TextureImporter:
       name: menu2_16
       rect:
         serializedVersion: 2
-        x: 876
-        y: 742
-        width: 143
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 435
+        y: 649
+        width: 66
+        height: 115
+      alignment: 9
+      pivot: {x: -2.8815074, y: -0.4198895}
+      border: {x: 65, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -510,13 +510,13 @@ TextureImporter:
       name: menu2_18
       rect:
         serializedVersion: 2
-        x: 724
-        y: 653
-        width: 152
+        x: 654
+        y: 654
+        width: 70
         height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 70, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -531,13 +531,13 @@ TextureImporter:
       name: menu2_19
       rect:
         serializedVersion: 2
-        x: 876
-        y: 655
-        width: 143
-        height: 83
+        x: 581
+        y: 650
+        width: 63
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 57, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -594,10 +594,10 @@ TextureImporter:
       name: menu2_22
       rect:
         serializedVersion: 2
-        x: 539
-        y: 5
-        width: 400
-        height: 132
+        x: 264
+        y: 8
+        width: 262
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
