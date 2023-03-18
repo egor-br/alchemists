@@ -1,0 +1,227 @@
+
+preloader.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+load
+  rotate: false
+  xy: 1, 761
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 0
+load
+  rotate: false
+  xy: 200, 761
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 1
+load
+  rotate: false
+  xy: 399, 761
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 10
+load
+  rotate: false
+  xy: 598, 761
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 11
+load
+  rotate: false
+  xy: 797, 761
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 12
+load
+  rotate: false
+  xy: 1, 571
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 13
+load
+  rotate: false
+  xy: 200, 571
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 14
+load
+  rotate: false
+  xy: 399, 571
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 15
+load
+  rotate: false
+  xy: 598, 571
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 16
+load
+  rotate: false
+  xy: 797, 571
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 17
+load
+  rotate: false
+  xy: 1, 381
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 18
+load
+  rotate: false
+  xy: 200, 381
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 19
+load
+  rotate: false
+  xy: 399, 381
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 2
+load
+  rotate: false
+  xy: 598, 381
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 20
+load
+  rotate: false
+  xy: 797, 381
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 21
+load
+  rotate: false
+  xy: 1, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 22
+load
+  rotate: false
+  xy: 200, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 23
+load
+  rotate: false
+  xy: 399, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 24
+load
+  rotate: false
+  xy: 598, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 25
+load
+  rotate: false
+  xy: 797, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 26
+load
+  rotate: false
+  xy: 1, 1
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 27
+load
+  rotate: false
+  xy: 200, 1
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 28
+load
+  rotate: false
+  xy: 399, 1
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 29
+load
+  rotate: false
+  xy: 598, 1
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 3
+load
+  rotate: false
+  xy: 797, 1
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 4
+
+preloader2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 1, 11
+  size: 369, 368
+  orig: 369, 368
+  offset: 0, 0
+  index: -1
+load
+  rotate: false
+  xy: 372, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 5
+load
+  rotate: false
+  xy: 571, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 6
+load
+  rotate: false
+  xy: 770, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 7
+load
+  rotate: false
+  xy: 372, 1
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 8
+load
+  rotate: false
+  xy: 571, 1
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: 9

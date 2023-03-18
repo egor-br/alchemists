@@ -1,0 +1,103 @@
+
+house_ads.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PlateAds_B
+  rotate: false
+  xy: 1, 192
+  size: 328, 52
+  orig: 328, 52
+  offset: 0, 0
+  index: -1
+PlateAds_L
+  rotate: false
+  xy: 331, 1
+  size: 77, 243
+  orig: 77, 243
+  offset: 0, 0
+  index: -1
+BtnCross
+  rotate: false
+  xy: 1, 129
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: 0
+BtnCross
+  rotate: false
+  xy: 410, 183
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: 1
+Number
+  rotate: false
+  xy: 1, 112
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+Number
+  rotate: false
+  xy: 65, 175
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 1
+Number
+  rotate: false
+  xy: 410, 166
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 2
+Number
+  rotate: false
+  xy: 474, 229
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 3
+Number
+  rotate: false
+  xy: 1, 95
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 4
+Number
+  rotate: false
+  xy: 19, 112
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 5
+Number
+  rotate: false
+  xy: 65, 158
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 6
+Number
+  rotate: false
+  xy: 83, 175
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 7
+Number
+  rotate: false
+  xy: 410, 149
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 8
+Number
+  rotate: false
+  xy: 428, 166
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 9

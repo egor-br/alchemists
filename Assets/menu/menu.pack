@@ -1,0 +1,685 @@
+
+menu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BookShadowBottom
+  rotate: false
+  xy: 1, 924
+  size: 825, 95
+  orig: 825, 95
+  offset: 0, 0
+  index: -1
+Roll
+  rotate: false
+  xy: 828, 790
+  size: 192, 229
+  orig: 192, 229
+  offset: 0, 0
+  index: 0
+SettingsBgLeft
+  rotate: false
+  xy: 1, 20
+  size: 130, 768
+  orig: 130, 768
+  offset: 0, 0
+  index: -1
+ProgressPlate
+  rotate: false
+  xy: 1, 792
+  size: 725, 130
+  orig: 725, 130
+  offset: 0, 0
+  index: -1
+BookShadowSide
+  rotate: false
+  xy: 728, 456
+  size: 84, 466
+  orig: 84, 466
+  offset: 0, 0
+  index: -1
+BtnPlay
+  rotate: false
+  xy: 814, 588
+  size: 198, 200
+  orig: 198, 200
+  offset: 0, 0
+  index: 0
+BtnPlay
+  rotate: false
+  xy: 814, 386
+  size: 198, 200
+  orig: 198, 200
+  offset: 0, 0
+  index: 1
+MainLogo
+  rotate: false
+  xy: 133, 140
+  size: 677, 314
+  orig: 677, 314
+  offset: 0, 0
+  index: -1
+BtnAchievements
+  rotate: false
+  xy: 133, 1
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 0
+MainPic
+  rotate: false
+  xy: 271, 23
+  size: 751, 115
+  orig: 751, 115
+  offset: 0, 0
+  index: 3
+TextLine
+  rotate: false
+  xy: 1, 12
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+Roll
+  rotate: false
+  xy: 812, 155
+  size: 47, 229
+  orig: 47, 229
+  offset: 0, 0
+  index: 1
+BtnBuy1
+  rotate: false
+  xy: 861, 313
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 0
+BtnBuy1
+  rotate: false
+  xy: 861, 240
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 1
+BtnBuy2
+  rotate: false
+  xy: 861, 167
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 0
+SettingsBgTopL
+  rotate: false
+  xy: 133, 532
+  size: 537, 258
+  orig: 537, 258
+  offset: 0, 0
+  index: -1
+LabelTimer
+  rotate: false
+  xy: 133, 458
+  size: 138, 72
+  orig: 138, 72
+  offset: 0, 0
+  index: -1
+BtnBuy2
+  rotate: false
+  xy: 273, 459
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 1
+BtnBuy3
+  rotate: false
+  xy: 437, 459
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 0
+OfferRibbon
+  rotate: false
+  xy: 601, 476
+  size: 123, 54
+  orig: 123, 54
+  offset: 0, 0
+  index: -1
+Roll
+  rotate: false
+  xy: 672, 561
+  size: 47, 229
+  orig: 47, 229
+  offset: 0, 0
+  index: 2
+
+menu2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SettingsBgRight
+  rotate: false
+  xy: 1, 250
+  size: 130, 768
+  orig: 130, 768
+  offset: 0, 0
+  index: -1
+SettingsBgBottomL
+  rotate: false
+  xy: 1, 1
+  size: 537, 247
+  orig: 537, 247
+  offset: 0, 0
+  index: -1
+MainPic
+  rotate: false
+  xy: 540, 868
+  size: 422, 150
+  orig: 422, 150
+  offset: 0, 0
+  index: 5
+EqualsIcon
+  rotate: false
+  xy: 964, 985
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+PlusIcon
+  rotate: false
+  xy: 964, 949
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+PlateHor
+  rotate: false
+  xy: 133, 387
+  size: 581, 479
+  orig: 581, 479
+  offset: 0, 0
+  index: -1
+FlagPlate
+  rotate: false
+  xy: 133, 257
+  size: 184, 128
+  orig: 184, 128
+  offset: 0, 0
+  index: -1
+BulbIcon
+  rotate: false
+  xy: 319, 258
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+BtnArrowRight
+  rotate: false
+  xy: 435, 262
+  size: 72, 123
+  orig: 72, 123
+  offset: 0, 0
+  index: 0
+BtnArrowRight
+  rotate: false
+  xy: 509, 262
+  size: 72, 123
+  orig: 72, 123
+  offset: 0, 0
+  index: 1
+MainPic
+  rotate: false
+  xy: 540, 3
+  size: 255, 257
+  orig: 255, 257
+  offset: 0, 0
+  index: 0
+BtnArrowLeft
+  rotate: false
+  xy: 583, 262
+  size: 68, 123
+  orig: 68, 123
+  offset: 0, 0
+  index: 0
+BtnArrowLeft
+  rotate: false
+  xy: 653, 262
+  size: 68, 123
+  orig: 68, 123
+  offset: 0, 0
+  index: 1
+BtnAchievements
+  rotate: false
+  xy: 133, 881
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 1
+Shop
+  rotate: false
+  xy: 271, 908
+  size: 256, 110
+  orig: 256, 110
+  offset: 0, 0
+  index: -1
+Free
+  rotate: false
+  xy: 271, 869
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+Table
+  rotate: false
+  xy: 723, 459
+  size: 248, 407
+  orig: 248, 407
+  offset: 0, 0
+  index: 2
+BuyPrice
+  rotate: false
+  xy: 716, 390
+  size: 162, 67
+  orig: 162, 67
+  offset: 0, 0
+  index: -1
+Flag
+  rotate: false
+  xy: 880, 372
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 0
+MainPic
+  rotate: false
+  xy: 723, 264
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: 1
+Flag
+  rotate: false
+  xy: 877, 285
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 1
+Flag
+  rotate: false
+  xy: 877, 198
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 10
+PlateBg
+  rotate: false
+  xy: 797, 221
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+OfferLight
+  rotate: false
+  xy: 797, 141
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: 0
+BtnMoreGames
+  rotate: false
+  xy: 797, 2
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 0
+OfferTimerRibbon
+  rotate: false
+  xy: 864, 142
+  size: 123, 54
+  orig: 123, 54
+  offset: 0, 0
+  index: -1
+OfferLight
+  rotate: false
+  xy: 935, 62
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: 1
+
+menu3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Altar
+  rotate: false
+  xy: 1, 768
+  size: 650, 255
+  orig: 650, 255
+  offset: 0, 0
+  index: -1
+Table
+  rotate: false
+  xy: 653, 616
+  size: 245, 407
+  orig: 245, 407
+  offset: 0, 0
+  index: 0
+Cross
+  rotate: false
+  xy: 900, 903
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+Effects
+  rotate: false
+  xy: 900, 781
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: 0
+Effects
+  rotate: false
+  xy: 900, 659
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: 1
+Music
+  rotate: false
+  xy: 900, 537
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: 0
+SettingsBgTopR
+  rotate: false
+  xy: 1, 508
+  size: 537, 258
+  orig: 537, 258
+  offset: 0, 0
+  index: -1
+MainPic
+  rotate: false
+  xy: 540, 488
+  size: 104, 278
+  orig: 104, 278
+  offset: 0, 0
+  index: 6
+SettingsBgBottomR
+  rotate: false
+  xy: 1, 259
+  size: 537, 247
+  orig: 537, 247
+  offset: 0, 0
+  index: -1
+MainPic
+  rotate: false
+  xy: 1, 3
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: 4
+Table
+  rotate: false
+  xy: 646, 207
+  size: 245, 407
+  orig: 245, 407
+  offset: 0, 0
+  index: 1
+MainPic
+  rotate: false
+  xy: 540, 117
+  size: 102, 369
+  orig: 102, 369
+  offset: 0, 0
+  index: 2
+AdsIcon
+  rotate: false
+  xy: 107, 1
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+BtnMoreGames
+  rotate: false
+  xy: 107, 120
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 1
+Music
+  rotate: false
+  xy: 893, 415
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: 1
+Vibro
+  rotate: false
+  xy: 893, 293
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: 0
+Vibro
+  rotate: false
+  xy: 893, 171
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: 1
+BtnBack
+  rotate: false
+  xy: 223, 11
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: 0
+BtnSettings
+  rotate: false
+  xy: 245, 120
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 0
+BtnBack
+  rotate: false
+  xy: 327, 11
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: 1
+BtnSettings
+  rotate: false
+  xy: 383, 120
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 1
+BtnReset
+  rotate: false
+  xy: 431, 14
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: 0
+BtnReset
+  rotate: false
+  xy: 535, 11
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: 1
+BtnNo
+  rotate: false
+  xy: 639, 22
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 0
+Flag
+  rotate: false
+  xy: 644, 120
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 11
+BtnNo
+  rotate: false
+  xy: 782, 25
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 1
+
+menu4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Table
+  rotate: false
+  xy: 1, 96
+  size: 245, 407
+  orig: 245, 407
+  offset: 0, 0
+  index: 3
+ProgressLine
+  rotate: false
+  xy: 248, 461
+  size: 533, 42
+  orig: 533, 42
+  offset: 0, 0
+  index: -1
+BtnShop
+  rotate: false
+  xy: 248, 322
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 0
+BtnShop
+  rotate: false
+  xy: 248, 183
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: 1
+BtnYes
+  rotate: false
+  xy: 1, 1
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 0
+BtnYes
+  rotate: false
+  xy: 386, 366
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 1
+BtnBuy3
+  rotate: false
+  xy: 529, 388
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 1
+Flag
+  rotate: false
+  xy: 386, 279
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 12
+Flag
+  rotate: false
+  xy: 386, 192
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 13
+Flag
+  rotate: false
+  xy: 248, 96
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 2
+BtnBuy4
+  rotate: false
+  xy: 144, 23
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 0
+Flag
+  rotate: false
+  xy: 393, 105
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 3
+BtnBuy4
+  rotate: false
+  xy: 531, 315
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 1
+BtnBuyOffer
+  rotate: false
+  xy: 531, 242
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 0
+BtnBuyOffer
+  rotate: false
+  xy: 783, 432
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: 1
+Flag
+  rotate: false
+  xy: 538, 155
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 4
+Flag
+  rotate: false
+  xy: 538, 68
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 5
+Flag
+  rotate: false
+  xy: 393, 18
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 6
+Flag
+  rotate: false
+  xy: 695, 345
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 7
+Flag
+  rotate: false
+  xy: 695, 258
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 8
+Flag
+  rotate: false
+  xy: 840, 345
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: 9

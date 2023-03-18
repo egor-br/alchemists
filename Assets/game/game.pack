@@ -1,0 +1,533 @@
+
+game.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ray
+  rotate: false
+  xy: 1, 823
+  size: 652, 198
+  orig: 652, 198
+  offset: 0, 0
+  index: 0
+PlateHint
+  rotate: false
+  xy: 655, 874
+  size: 355, 147
+  orig: 355, 147
+  offset: 0, 0
+  index: -1
+Ach
+  rotate: false
+  xy: 655, 448
+  size: 349, 424
+  orig: 349, 424
+  offset: 0, 0
+  index: 5
+ShadowPage
+  rotate: false
+  xy: 1, 16
+  size: 159, 430
+  orig: 159, 430
+  offset: 0, 0
+  index: -1
+Ach
+  rotate: false
+  xy: 1, 449
+  size: 305, 372
+  orig: 305, 372
+  offset: 0, 0
+  index: 2
+Ach
+  rotate: false
+  xy: 308, 412
+  size: 343, 409
+  orig: 343, 409
+  offset: 0, 0
+  index: 3
+Ach
+  rotate: false
+  xy: 162, 1
+  size: 343, 409
+  orig: 343, 409
+  offset: 0, 0
+  index: 4
+Ach
+  rotate: false
+  xy: 653, 109
+  size: 339, 337
+  orig: 339, 337
+  offset: 0, 0
+  index: 0
+BtnShopGame
+  rotate: false
+  xy: 507, 317
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 0
+BtnShopGame
+  rotate: false
+  xy: 507, 222
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 1
+BtnVideo
+  rotate: false
+  xy: 507, 127
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 0
+BtnVideo
+  rotate: false
+  xy: 507, 32
+  size: 141, 93
+  orig: 141, 93
+  offset: 0, 0
+  index: 1
+PlateHelp
+  rotate: false
+  xy: 650, 10
+  size: 180, 97
+  orig: 180, 97
+  offset: 0, 0
+  index: 2
+Select
+  rotate: false
+  xy: 832, 12
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+HelpBacklight
+  rotate: false
+  xy: 929, 18
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+
+game2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ribbon
+  rotate: false
+  xy: 1, 498
+  size: 476, 525
+  orig: 476, 525
+  offset: 0, 0
+  index: -1
+PlateNew
+  rotate: false
+  xy: 1, 159
+  size: 408, 337
+  orig: 408, 337
+  offset: 0, 0
+  index: -1
+PageL
+  rotate: false
+  xy: 411, 47
+  size: 378, 449
+  orig: 378, 449
+  offset: 0, 0
+  index: -1
+PlateHelp
+  rotate: false
+  xy: 1, 34
+  size: 210, 123
+  orig: 210, 123
+  offset: 0, 0
+  index: 1
+Icon
+  rotate: false
+  xy: 213, 43
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+BtnBackGame
+  rotate: false
+  xy: 329, 78
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: 0
+Hs
+  rotate: false
+  xy: 329, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+SymbolRed
+  rotate: false
+  xy: 479, 826
+  size: 484, 197
+  orig: 484, 197
+  offset: 0, 0
+  index: -1
+PlateHelp
+  rotate: false
+  xy: 479, 587
+  size: 452, 237
+  orig: 452, 237
+  offset: 0, 0
+  index: 0
+BtnBackGame
+  rotate: false
+  xy: 479, 506
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: 1
+BtnHelp
+  rotate: false
+  xy: 560, 506
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: 0
+BtnHelp
+  rotate: false
+  xy: 641, 506
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: 1
+Particles
+  rotate: false
+  xy: 722, 515
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 0
+AchTextRu
+  rotate: false
+  xy: 791, 356
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 0
+Particles
+  rotate: false
+  xy: 794, 515
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 1
+Particles
+  rotate: false
+  xy: 866, 515
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 2
+Ray
+  rotate: false
+  xy: 965, 678
+  size: 52, 345
+  orig: 52, 345
+  offset: 0, 0
+  index: 1
+AchTextRu
+  rotate: false
+  xy: 791, 197
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 1
+AchTextRu
+  rotate: false
+  xy: 791, 38
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 2
+BtnCross
+  rotate: false
+  xy: 933, 609
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: 0
+BtnCross
+  rotate: false
+  xy: 938, 540
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: 1
+Bulb
+  rotate: false
+  xy: 405, 1
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+
+game3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PageR
+  rotate: false
+  xy: 1, 567
+  size: 378, 449
+  orig: 378, 449
+  offset: 0, 0
+  index: -1
+Ach
+  rotate: false
+  xy: 1, 199
+  size: 305, 366
+  orig: 305, 366
+  offset: 0, 0
+  index: 1
+AchTextRu
+  rotate: false
+  xy: 381, 859
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 3
+AchTextRu
+  rotate: false
+  xy: 1, 40
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 4
+AchText
+  rotate: false
+  xy: 381, 700
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 0
+AchText
+  rotate: false
+  xy: 597, 859
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 1
+AchText
+  rotate: false
+  xy: 597, 700
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 2
+AchText
+  rotate: false
+  xy: 381, 541
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 3
+AchText
+  rotate: false
+  xy: 597, 541
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: 4
+Marker0
+  rotate: false
+  xy: 813, 958
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 0
+Marker0
+  rotate: false
+  xy: 813, 898
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 1
+Marker0
+  rotate: false
+  xy: 813, 838
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 10
+Marker0
+  rotate: false
+  xy: 813, 778
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 11
+Marker0
+  rotate: false
+  xy: 813, 718
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 12
+Marker0
+  rotate: false
+  xy: 813, 658
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 13
+Marker0
+  rotate: false
+  xy: 813, 598
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 2
+Marker0
+  rotate: false
+  xy: 813, 538
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 3
+Marker0
+  rotate: false
+  xy: 217, 139
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 4
+Marker0
+  rotate: false
+  xy: 217, 79
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 5
+Marker0
+  rotate: false
+  xy: 217, 19
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 6
+Marker0
+  rotate: false
+  xy: 369, 481
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 7
+Marker0
+  rotate: false
+  xy: 521, 481
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 8
+Marker0
+  rotate: false
+  xy: 369, 421
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 9
+Marker1
+  rotate: false
+  xy: 521, 421
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 0
+Marker1
+  rotate: false
+  xy: 369, 361
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 1
+Marker1
+  rotate: false
+  xy: 521, 361
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 10
+Marker1
+  rotate: false
+  xy: 369, 301
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 11
+Marker1
+  rotate: false
+  xy: 521, 301
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 12
+Marker1
+  rotate: false
+  xy: 369, 241
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 13
+Marker1
+  rotate: false
+  xy: 521, 241
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 2
+Marker1
+  rotate: false
+  xy: 369, 181
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 3
+Marker1
+  rotate: false
+  xy: 369, 121
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 4
+Marker1
+  rotate: false
+  xy: 521, 181
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 5
+Marker1
+  rotate: false
+  xy: 369, 61
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 6
+Marker1
+  rotate: false
+  xy: 521, 121
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 7
+Marker1
+  rotate: false
+  xy: 521, 61
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 8
+Marker1
+  rotate: false
+  xy: 369, 1
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: 9
