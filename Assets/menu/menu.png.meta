@@ -174,10 +174,10 @@ TextureImporter:
       name: menu_2
       rect:
         serializedVersion: 2
-        x: 134
+        x: 138
         y: 571
-        width: 674
-        height: 286
+        width: 673
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +216,8 @@ TextureImporter:
       name: menu_4
       rect:
         serializedVersion: 2
-        x: 16
-        y: 348
+        x: 0
+        y: 101
         width: 804
         height: 466
       alignment: 0
@@ -280,9 +280,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4
-        y: 105
-        width: 723
-        height: 126
+        y: 111
+        width: 714
+        height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
