@@ -25,10 +25,11 @@ public class Element : MonoBehaviour
     void Start()
     {
         objCategory_0[0] = new GameObject("name", typeof(Button), typeof(GraphicRaycaster));
-        objCategory_0[0].GetComponent<Canvas>().sortingOrder = 10000;
+        objCategory_0[0].GetComponent<Canvas>().sortingOrder = 100;
         objCategory_0[0].GetComponent<Canvas>().renderMode = RenderMode.WorldSpace;
         objCategory_0[0].GetComponent<Canvas>().worldCamera = Camera.main;
-
+        objCategory_0[0].GetComponent<Button>().enabled = true;
+        
         objCategory_0[0].GetComponent<Transform>().position = new Vector2(-600, 100);
         objCategory_0[0].SetActive(true);
     }
