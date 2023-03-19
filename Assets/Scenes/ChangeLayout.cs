@@ -22,7 +22,7 @@ public class ChangeLayout : MonoBehaviour
 
     void Start()
     {
-        
+        obj[0].GetComponent<Canvas>().sortingOrder = 10000;
     }
 
     // Update is called once per frame
