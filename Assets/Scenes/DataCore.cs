@@ -4,13 +4,21 @@ using UnityEngine;
 using Structs;
 using System;
 using System.IO;
+using UnityEngine;
+using UnityEngine.UI;
 
 
 public class DataCore : MonoBehaviour
 {
 
+    public static ItemStruct[] statItems;
+    public static string currentCategory;
+    public RectTransform Grid;
+
+    private Image sourceImage;
+
     [Header("Item")]
-    [SerializeField] private ItemStruct[] items;
+    [SerializeField] public ItemStruct[] items;
 
     [Header("SaveInfo")]
     [SerializeField] private string savePath;
@@ -20,6 +28,50 @@ public class DataCore : MonoBehaviour
     {
         savePath = Path.Combine(Application.dataPath, fileName);
         loadFromFile();
+        DataCore.currentCategory = "1";
+        showItems();
+    }
+
+    private void showItems()
+    {
+        int count = 32;
+        int currentItem = 0;
+
+        for (int i = 0; i < 32; i++)
+        {
+            Grid.GetChild(i).GetChild(0).GetChild(1).GetComponent<Text>().text = "";
+            Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;
+            newColor.a = 0;
+            Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
+        }
+
+        for (int i = 0; i < items.Length; i++)
+        {
+            if(count > 0 && DataCore.currentCategory == statItems[i].category)
+            {
+                Grid.GetChild(currentItem).GetChild(0).GetChild(1).GetComponent<Text>().text = statItems[i].name;
+                
+                Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;
+                newColor.a = 1;
+                Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
+
+                try
+                {
+                    Sprite image =  Resources.Load<Sprite>(statItems[i].backgroundPath);
+                    //Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = UnityEditor.AssetDatabase.GetBuiltinExtraResource<Sprite>(statItems[i].backgroundPath);
+                    Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = image;
+                }
+                catch (System.Exception)
+                { 
+                    Debug.Log(statItems[i].backgroundPath);
+                }
+
+                count--;
+                currentItem++;
+            }
+        }
+        
+        
     }
 
     private void saveToFile()
@@ -55,6 +107,7 @@ public class DataCore : MonoBehaviour
             DataCoreStruct dataStructJson = JsonUtility.FromJson<DataCoreStruct>(json);
 
             this.items = dataStructJson.items;
+            DataCore.statItems = dataStructJson.items;
         }
         catch (System.Exception)
         {

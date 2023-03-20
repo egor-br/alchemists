@@ -2,23 +2,31 @@
     "items": [
         {
             "name": "вода",
-            "id": 0,
-            "formula": "--"
-        },
-        {
-            "name": "огонь",
-            "id": 1,
-            "formula": "--"
+            "id": 1002,
+            "backgroundPath": "1",
+            "formula": "",
+            "category": "1"
         },
         {
             "name": "земля",
-            "id": 2,
-            "formula": "--"
+            "id": 1003,
+            "backgroundPath": "",
+            "formula": "",
+            "category": "1"
+        },
+        {
+            "name": "огонь",
+            "id": 1001,
+            "backgroundPath": "",
+            "formula": "",
+            "category": "1"
         },
         {
             "name": "воздух",
-            "id": 3,
-            "formula": "--"
+            "id": 1004,
+            "backgroundPath": "",
+            "formula": "",
+            "category": "1"
         }
     ]
 }
