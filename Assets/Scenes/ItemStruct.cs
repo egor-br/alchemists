@@ -5,6 +5,9 @@ namespace Structs
     {
         public string name;
         public int id;
-        public string formula;
+        public string firstCraftElementId;
+        public string secondCraftElementId;
+        public string category;
+        public bool opened;
     }
 }

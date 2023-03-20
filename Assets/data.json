@@ -2,23 +2,35 @@
     "items": [
         {
             "name": "вода",
-            "id": 0,
-            "formula": "--"
-        },
-        {
-            "name": "огонь",
-            "id": 1,
-            "formula": "--"
+            "id": 1002,
+            "firstCraftElementId": "",
+            "secondCraftElementId": "",
+            "category": "1",
+            "opened": true
         },
         {
             "name": "земля",
-            "id": 2,
-            "formula": "--"
+            "id": 1003,
+            "firstCraftElementId": "",
+            "secondCraftElementId": "",
+            "category": "1",
+            "opened": true
+        },
+        {
+            "name": "огонь",
+            "id": 1001,
+            "firstCraftElementId": "",
+            "secondCraftElementId": "",
+            "category": "1",
+            "opened": true
         },
         {
             "name": "воздух",
-            "id": 3,
-            "formula": "--"
+            "id": 1004,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
         }
     ]
 }
