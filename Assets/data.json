@@ -30,13 +30,213 @@
             "firstCraftElementId": "1001",
             "secondCraftElementId": "1002",
             "category": "0",
+            "opened": true
+        },
+        {
+            "name": "Австралия",
+            "id": 1,
+            "firstCraftElementId": "104",
+            "secondCraftElementId": "267",
+            "category": "1",
             "opened": false
         },
         {
-            "name": "qweqweqwe",
-            "id": 1006,
+            "name": "Аквариум",
+            "id": 2,
+            "firstCraftElementId": "266",
+            "secondCraftElementId": "236",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Алкоголик",
+            "id": 3,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "265",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Алмаз",
+            "id": 4,
+            "firstCraftElementId": "62",
+            "secondCraftElementId": "289",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Алюминий",
+            "id": 5,
+            "firstCraftElementId": "152",
+            "secondCraftElementId": "241",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Америка",
+            "id": 6,
+            "firstCraftElementId": "121",
+            "secondCraftElementId": "122",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Аммониты",
+            "id": 7,
+            "firstCraftElementId": "51",
+            "secondCraftElementId": "201",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Атомная бомба",
+            "id": 8,
+            "firstCraftElementId": "295",
+            "secondCraftElementId": "22",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бабочка",
+            "id": 9,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "312",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бактерия",
+            "id": 10,
+            "firstCraftElementId": "77",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бамбук",
+            "id": 11,
+            "firstCraftElementId": "281",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Банан",
+            "id": 12,
+            "firstCraftElementId": "281",
+            "secondCraftElementId": "302",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бекон",
+            "id": 13,
+            "firstCraftElementId": "248",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Беларусь",
+            "id": 14,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "102",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бензин",
+            "id": 15,
+            "firstCraftElementId": "62",
+            "secondCraftElementId": "173",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бетон",
+            "id": 16,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "308",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Библиотека",
+            "id": 17,
+            "firstCraftElementId": "115",
+            "secondCraftElementId": "155",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бобр",
+            "id": 18,
+            "firstCraftElementId": "213",
+            "secondCraftElementId": "81",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Болото",
+            "id": 19,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Больница",
+            "id": 20,
+            "firstCraftElementId": "21",
+            "secondCraftElementId": "108",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Больной",
+            "id": 21,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "57",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бомба",
+            "id": 22,
+            "firstCraftElementId": "218",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Борщ",
+            "id": 23,
             "firstCraftElementId": "1001",
-            "secondCraftElementId": "1004",
+            "secondCraftElementId": "245",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бриллиант",
+            "id": 24,
+            "firstCraftElementId": "4",
+            "secondCraftElementId": "90",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Бумага",
+            "id": 25,
+            "firstCraftElementId": "284",
+            "secondCraftElementId": "90",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Буря",
+            "id": 26,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "326",
             "category": "1",
             "opened": false
         }

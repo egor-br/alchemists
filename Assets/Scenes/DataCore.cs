@@ -11,10 +11,11 @@ public class DataCore : MonoBehaviour
 {
 
     public static ItemStruct[] statItems;
+
     public static string currentCategory;
     public static string oldCategory;
-    public RectTransform Grid;
 
+    public RectTransform Grid;
     private Image sourceImage;
 
     [Header("Item")]
@@ -71,6 +72,8 @@ public class DataCore : MonoBehaviour
                 currentItem++;
             }
         }
+        
+        saveToFile();
     }
 
     private void showItems()
@@ -113,7 +116,7 @@ public class DataCore : MonoBehaviour
         
     }
 
-    private void saveToFile()
+    public void saveToFile()
     {
         DataCoreStruct dataStruct = new DataCoreStruct
         {

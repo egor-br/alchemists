@@ -53,7 +53,7 @@ public class MovingItems : MonoBehaviour
             rightItemId = "";
         }
 
-        if(leftItem.GetChild(0).GetComponent<Image>().enabled  == false)
+        if(leftItem.GetChild(0).GetComponent<Image>().enabled  == false && rect.GetChild(1).GetComponent<Text>().text != "")
         {
             leftItem.GetChild(0).GetComponent<Image>().sprite = rect.GetChild(0).GetComponent<Image>().sprite;
             
@@ -64,7 +64,7 @@ public class MovingItems : MonoBehaviour
 
             leftItemName = rect.GetChild(1).GetComponent<Text>().text;
         }
-        else if(rightItem.GetChild(0).GetComponent<Image>().enabled  == false)
+        else if(rightItem.GetChild(0).GetComponent<Image>().enabled  == false  && rect.GetChild(1).GetComponent<Text>().text != "")
         {
             rightItem.GetChild(0).GetComponent<Image>().sprite = rect.GetChild(0).GetComponent<Image>().sprite;
             
