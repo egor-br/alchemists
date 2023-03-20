@@ -32,6 +32,35 @@ public class DataCore : MonoBehaviour
         showItems();
     }
 
+    private void Update() {
+        int count = 32;
+        int currentItem = 0;
+
+        for (int i = 0; i < items.Length; i++)
+        {
+            if(count > 0 && DataCore.currentCategory == statItems[i].category && statItems[i].opened == true)
+            {
+                Grid.GetChild(currentItem).GetChild(0).GetChild(1).GetComponent<Text>().text = statItems[i].name;
+                
+                Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;
+                newColor.a = 1;
+                Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
+
+                try
+                {
+                    Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(statItems[i].id.ToString());
+                }
+                catch (System.Exception)
+                { 
+                    Debug.Log("Ошибка загрузки изображения:\neroor: Resources.Load<Sprite>");
+                }
+
+                count--;
+                currentItem++;
+            }
+        }
+    }
+
     private void showItems()
     {
         int count = 32;
@@ -47,7 +76,7 @@ public class DataCore : MonoBehaviour
 
         for (int i = 0; i < items.Length; i++)
         {
-            if(count > 0 && DataCore.currentCategory == statItems[i].category)
+            if(count > 0 && DataCore.currentCategory == statItems[i].category && statItems[i].opened == true)
             {
                 Grid.GetChild(currentItem).GetChild(0).GetChild(1).GetComponent<Text>().text = statItems[i].name;
                 
@@ -57,13 +86,11 @@ public class DataCore : MonoBehaviour
 
                 try
                 {
-                    Sprite image =  Resources.Load<Sprite>(statItems[i].backgroundPath);
-                    //Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = UnityEditor.AssetDatabase.GetBuiltinExtraResource<Sprite>(statItems[i].backgroundPath);
-                    Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = image;
+                    Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(statItems[i].id.ToString());
                 }
                 catch (System.Exception)
                 { 
-                    Debug.Log(statItems[i].backgroundPath);
+                    Debug.Log("Ошибка загрузки изображения:\neroor: Resources.Load<Sprite>");
                 }
 
                 count--;
@@ -78,7 +105,7 @@ public class DataCore : MonoBehaviour
     {
         DataCoreStruct dataStruct = new DataCoreStruct
         {
-            items = this.items
+            items = DataCore.statItems
         };
 
         string json = JsonUtility.ToJson(dataStruct, true);

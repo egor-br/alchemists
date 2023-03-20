@@ -3,30 +3,34 @@
         {
             "name": "вода",
             "id": 1002,
-            "backgroundPath": "1",
-            "formula": "",
-            "category": "1"
+            "firstCraftElementId": "",
+            "secondCraftElementId": "",
+            "category": "1",
+            "opened": true
         },
         {
             "name": "земля",
             "id": 1003,
-            "backgroundPath": "",
-            "formula": "",
-            "category": "1"
+            "firstCraftElementId": "",
+            "secondCraftElementId": "",
+            "category": "1",
+            "opened": true
         },
         {
             "name": "огонь",
             "id": 1001,
-            "backgroundPath": "",
-            "formula": "",
-            "category": "1"
+            "firstCraftElementId": "",
+            "secondCraftElementId": "",
+            "category": "1",
+            "opened": true
         },
         {
             "name": "воздух",
             "id": 1004,
-            "backgroundPath": "",
-            "formula": "",
-            "category": "1"
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
         }
     ]
 }
