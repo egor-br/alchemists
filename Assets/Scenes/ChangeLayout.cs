@@ -11,7 +11,8 @@ public class ChangeLayout : MonoBehaviour
 
     public void ChangeLay(int idButton)
     {
-        Debug.Log("KEK");
+        DataCore.currentCategory = idButton.ToString();
+
         obj[idButton].GetComponent<Canvas>().sortingOrder = 10000;
         for (int i = 0; i < 14; i++)
         {
@@ -22,6 +23,8 @@ public class ChangeLayout : MonoBehaviour
 
     void Start()
     {
+        DataCore.currentCategory = "0";
+        
         obj[0].GetComponent<Canvas>().sortingOrder = 10000;
     }
 

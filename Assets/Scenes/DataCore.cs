@@ -7,12 +7,12 @@ using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
 
-
 public class DataCore : MonoBehaviour
 {
 
     public static ItemStruct[] statItems;
     public static string currentCategory;
+    public static string oldCategory;
     public RectTransform Grid;
 
     private Image sourceImage;
@@ -24,17 +24,29 @@ public class DataCore : MonoBehaviour
     [SerializeField] private string savePath;
     [SerializeField] private string fileName;
 
-    private void Awake() 
-    {
+    private void Start() {
         savePath = Path.Combine(Application.dataPath, fileName);
         loadFromFile();
-        DataCore.currentCategory = "1";
+        DataCore.currentCategory = "0";
+        DataCore.oldCategory = "0";
         showItems();
     }
 
     private void Update() {
         int count = 32;
         int currentItem = 0;
+
+        if(DataCore.currentCategory != DataCore.oldCategory)
+        {
+            for (int i = 0; i < count; i++)
+            {
+                Grid.GetChild(i).GetChild(0).GetChild(1).GetComponent<Text>().text = "";
+                Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;
+                newColor.a = 0;
+                Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
+            }
+            DataCore.oldCategory = DataCore.currentCategory;
+        }
 
         for (int i = 0; i < items.Length; i++)
         {
@@ -44,11 +56,11 @@ public class DataCore : MonoBehaviour
                 
                 Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;
                 newColor.a = 1;
-                Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
+                Grid.GetChild(currentItem).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
 
                 try
                 {
-                    Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(statItems[i].id.ToString());
+                    Grid.GetChild(currentItem).GetChild(0).GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(statItems[i].id.ToString());
                 }
                 catch (System.Exception)
                 { 
@@ -66,7 +78,7 @@ public class DataCore : MonoBehaviour
         int count = 32;
         int currentItem = 0;
 
-        for (int i = 0; i < 32; i++)
+        for (int i = 0; i < count; i++)
         {
             Grid.GetChild(i).GetChild(0).GetChild(1).GetComponent<Text>().text = "";
             Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;

@@ -19,6 +19,19 @@ public class MovingItems : MonoBehaviour
     private string leftItemId;
     private string rightItemId;
     
+    public void resetItem(RectTransform rect)
+    {
+        Color newColor = rect.GetChild(0).GetComponent<Image>().color;
+        newColor.a = 0;
+        rect.GetChild(0).GetComponent<Image>().color = newColor;
+        rect.GetChild(0).GetComponent<Image>().enabled = false;
+
+        leftItemName = "";
+        rightItemName = "";
+        leftItemId = "";
+        rightItemId = "";
+    }
+
     public void move(RectTransform rect)
     {
          if(leftItem.GetChild(0).GetComponent<Image>().enabled  == true && 
@@ -33,6 +46,11 @@ public class MovingItems : MonoBehaviour
             newColor.a = 0;
             rightItem.GetChild(0).GetComponent<Image>().color = newColor;
             rightItem.GetChild(0).GetComponent<Image>().enabled = false;
+
+            leftItemName = "";
+            rightItemName = "";
+            leftItemId = "";
+            rightItemId = "";
         }
 
         if(leftItem.GetChild(0).GetComponent<Image>().enabled  == false)
