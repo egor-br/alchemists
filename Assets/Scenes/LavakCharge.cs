@@ -23,10 +23,18 @@ public class LavakCharge : MonoBehaviour
         aim.SetTrigger("fade");
 
     }
+    public void FadeToLovel_down()
+    {
+        aim = GetComponent<Animator>();
+
+        aim.SetTrigger("fade");
+        SceneManager.LoadScene(2);
+
+    }
     public void OnFadeToLovel(int scene_id)
     {
        
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(scene_id);
 
     }
 }
