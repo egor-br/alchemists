@@ -5,8 +5,6 @@ using UnityEngine.UI;
 
 public class Element : MonoBehaviour
 {
-
-
     public GameObject[] objCategory_0;
     public GameObject[] objCategory_1;
     public GameObject[] objCategory_2;
