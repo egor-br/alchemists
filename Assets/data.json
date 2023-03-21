@@ -37,7 +37,7 @@
             "id": 1,
             "firstCraftElementId": "104",
             "secondCraftElementId": "267",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -45,7 +45,7 @@
             "id": 2,
             "firstCraftElementId": "266",
             "secondCraftElementId": "236",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -53,7 +53,7 @@
             "id": 3,
             "firstCraftElementId": "311",
             "secondCraftElementId": "265",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -61,7 +61,7 @@
             "id": 4,
             "firstCraftElementId": "62",
             "secondCraftElementId": "289",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -69,7 +69,7 @@
             "id": 5,
             "firstCraftElementId": "152",
             "secondCraftElementId": "241",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -77,7 +77,7 @@
             "id": 6,
             "firstCraftElementId": "121",
             "secondCraftElementId": "122",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -85,7 +85,7 @@
             "id": 7,
             "firstCraftElementId": "51",
             "secondCraftElementId": "201",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -93,7 +93,7 @@
             "id": 8,
             "firstCraftElementId": "295",
             "secondCraftElementId": "22",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -101,7 +101,7 @@
             "id": 9,
             "firstCraftElementId": "1004",
             "secondCraftElementId": "312",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -109,7 +109,7 @@
             "id": 10,
             "firstCraftElementId": "77",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -117,7 +117,7 @@
             "id": 11,
             "firstCraftElementId": "281",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -125,7 +125,7 @@
             "id": 12,
             "firstCraftElementId": "281",
             "secondCraftElementId": "302",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -133,7 +133,7 @@
             "id": 13,
             "firstCraftElementId": "248",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -141,7 +141,7 @@
             "id": 14,
             "firstCraftElementId": "267",
             "secondCraftElementId": "102",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -149,7 +149,7 @@
             "id": 15,
             "firstCraftElementId": "62",
             "secondCraftElementId": "173",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -157,7 +157,7 @@
             "id": 16,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "308",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -165,7 +165,7 @@
             "id": 17,
             "firstCraftElementId": "115",
             "secondCraftElementId": "155",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -173,7 +173,7 @@
             "id": 18,
             "firstCraftElementId": "213",
             "secondCraftElementId": "81",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -189,7 +189,7 @@
             "id": 20,
             "firstCraftElementId": "21",
             "secondCraftElementId": "108",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -197,7 +197,7 @@
             "id": 21,
             "firstCraftElementId": "311",
             "secondCraftElementId": "57",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -205,7 +205,7 @@
             "id": 22,
             "firstCraftElementId": "218",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -213,7 +213,7 @@
             "id": 23,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "245",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -221,7 +221,7 @@
             "id": 24,
             "firstCraftElementId": "4",
             "secondCraftElementId": "90",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -229,7 +229,7 @@
             "id": 25,
             "firstCraftElementId": "284",
             "secondCraftElementId": "90",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -245,7 +245,7 @@
             "id": 27,
             "firstCraftElementId": "311",
             "secondCraftElementId": "128",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -253,7 +253,7 @@
             "id": 28,
             "firstCraftElementId": "267",
             "secondCraftElementId": "230",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -261,7 +261,7 @@
             "id": 29,
             "firstCraftElementId": "119",
             "secondCraftElementId": "119",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -269,7 +269,7 @@
             "id": 30,
             "firstCraftElementId": "81",
             "secondCraftElementId": "222",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -285,7 +285,7 @@
             "id": 32,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "173",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -293,7 +293,7 @@
             "id": 33,
             "firstCraftElementId": "34",
             "secondCraftElementId": "10",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -301,7 +301,7 @@
             "id": 34,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -309,7 +309,7 @@
             "id": 35,
             "firstCraftElementId": "224",
             "secondCraftElementId": "265",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -317,7 +317,7 @@
             "id": 36,
             "firstCraftElementId": "265",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -325,7 +325,7 @@
             "id": 37,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "324",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -333,7 +333,7 @@
             "id": 38,
             "firstCraftElementId": "77",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -341,7 +341,7 @@
             "id": 39,
             "firstCraftElementId": "182",
             "secondCraftElementId": "185",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -349,7 +349,7 @@
             "id": 40,
             "firstCraftElementId": "81",
             "secondCraftElementId": "144",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -357,7 +357,7 @@
             "id": 41,
             "firstCraftElementId": "202",
             "secondCraftElementId": "77",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -373,7 +373,7 @@
             "id": 43,
             "firstCraftElementId": "287",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -381,7 +381,7 @@
             "id": 44,
             "firstCraftElementId": "90",
             "secondCraftElementId": "281",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -397,7 +397,7 @@
             "id": 46,
             "firstCraftElementId": "267",
             "secondCraftElementId": "300",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -405,7 +405,7 @@
             "id": 47,
             "firstCraftElementId": "69",
             "secondCraftElementId": "39",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -413,7 +413,7 @@
             "id": 48,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "241",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -421,7 +421,7 @@
             "id": 49,
             "firstCraftElementId": "39",
             "secondCraftElementId": "118",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -437,7 +437,7 @@
             "id": 51,
             "firstCraftElementId": "155",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -445,7 +445,7 @@
             "id": 52,
             "firstCraftElementId": "172",
             "secondCraftElementId": "172",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -453,7 +453,7 @@
             "id": 53,
             "firstCraftElementId": "250",
             "secondCraftElementId": "197",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -461,7 +461,7 @@
             "id": 54,
             "firstCraftElementId": "109",
             "secondCraftElementId": "37",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -469,7 +469,7 @@
             "id": 55,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "305",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -477,7 +477,7 @@
             "id": 56,
             "firstCraftElementId": "267",
             "secondCraftElementId": "306",
-            "category": "0",
+            "category": "12",
             "opened": false
         },
         {
@@ -485,7 +485,7 @@
             "id": 57,
             "firstCraftElementId": "1004",
             "secondCraftElementId": "10",
-            "category": "0",
+            "category": "5",
             "opened": false
         },
         {
@@ -493,7 +493,7 @@
             "id": 58,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "38",
-            "category": "0",
+            "category": "8",
             "opened": false
         },
         {
@@ -501,7 +501,7 @@
             "id": 59,
             "firstCraftElementId": "221",
             "secondCraftElementId": "128",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -525,7 +525,7 @@
             "id": 62,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -533,7 +533,7 @@
             "id": 63,
             "firstCraftElementId": "157",
             "secondCraftElementId": "25",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -549,7 +549,7 @@
             "id": 65,
             "firstCraftElementId": "143",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -557,7 +557,7 @@
             "id": 66,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "330",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -565,7 +565,7 @@
             "id": 67,
             "firstCraftElementId": "295",
             "secondCraftElementId": "21",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -573,7 +573,7 @@
             "id": 68,
             "firstCraftElementId": "81",
             "secondCraftElementId": "311",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -581,7 +581,7 @@
             "id": 69,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "66",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -589,7 +589,7 @@
             "id": 70,
             "firstCraftElementId": "90",
             "secondCraftElementId": "64",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -597,7 +597,7 @@
             "id": 71,
             "firstCraftElementId": "305",
             "secondCraftElementId": "10",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -605,7 +605,7 @@
             "id": 72,
             "firstCraftElementId": "307",
             "secondCraftElementId": "265",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -613,7 +613,7 @@
             "id": 73,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "273",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -621,7 +621,7 @@
             "id": 74,
             "firstCraftElementId": "221",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -629,7 +629,7 @@
             "id": 75,
             "firstCraftElementId": "267",
             "secondCraftElementId": "165",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -637,7 +637,7 @@
             "id": 76,
             "firstCraftElementId": "201",
             "secondCraftElementId": "228",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -645,7 +645,7 @@
             "id": 77,
             "firstCraftElementId": "326",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -653,7 +653,7 @@
             "id": 78,
             "firstCraftElementId": "311",
             "secondCraftElementId": "248",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -661,7 +661,7 @@
             "id": 79,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "312",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -669,7 +669,7 @@
             "id": 80,
             "firstCraftElementId": "295",
             "secondCraftElementId": "263",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -677,7 +677,7 @@
             "id": 81,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "332",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -685,7 +685,7 @@
             "id": 82,
             "firstCraftElementId": "31",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -693,7 +693,7 @@
             "id": 83,
             "firstCraftElementId": "19",
             "secondCraftElementId": "312",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -701,7 +701,7 @@
             "id": 84,
             "firstCraftElementId": "298",
             "secondCraftElementId": "5",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -709,7 +709,7 @@
             "id": 85,
             "firstCraftElementId": "285",
             "secondCraftElementId": "77",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -717,7 +717,7 @@
             "id": 86,
             "firstCraftElementId": "311",
             "secondCraftElementId": "133",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -725,7 +725,7 @@
             "id": 87,
             "firstCraftElementId": "97",
             "secondCraftElementId": "228",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -733,7 +733,7 @@
             "id": 88,
             "firstCraftElementId": "236",
             "secondCraftElementId": "236",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -741,7 +741,7 @@
             "id": 89,
             "firstCraftElementId": "267",
             "secondCraftElementId": "96",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -749,7 +749,7 @@
             "id": 90,
             "firstCraftElementId": "311",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -757,7 +757,7 @@
             "id": 91,
             "firstCraftElementId": "267",
             "secondCraftElementId": "42",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -765,7 +765,7 @@
             "id": 92,
             "firstCraftElementId": "267",
             "secondCraftElementId": "208",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -773,7 +773,7 @@
             "id": 93,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "38",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -781,7 +781,7 @@
             "id": 94,
             "firstCraftElementId": "250",
             "secondCraftElementId": "151",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -789,7 +789,7 @@
             "id": 95,
             "firstCraftElementId": "64",
             "secondCraftElementId": "222",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -797,7 +797,7 @@
             "id": 96,
             "firstCraftElementId": "115",
             "secondCraftElementId": "145",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -813,7 +813,7 @@
             "id": 98,
             "firstCraftElementId": "281",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -821,15 +821,15 @@
             "id": 99,
             "firstCraftElementId": "267",
             "secondCraftElementId": "64",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
-            "name": "Карамаель",
+            "name": "Карамель",
             "id": 100,
             "firstCraftElementId": "244",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -837,7 +837,7 @@
             "id": 101,
             "firstCraftElementId": "126",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -845,7 +845,7 @@
             "id": 102,
             "firstCraftElementId": "282",
             "secondCraftElementId": "197",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -853,7 +853,7 @@
             "id": 103,
             "firstCraftElementId": "160",
             "secondCraftElementId": "143",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -861,7 +861,7 @@
             "id": 104,
             "firstCraftElementId": "146",
             "secondCraftElementId": "81",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -869,7 +869,7 @@
             "id": 105,
             "firstCraftElementId": "50",
             "secondCraftElementId": "311",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -877,7 +877,7 @@
             "id": 106,
             "firstCraftElementId": "156",
             "secondCraftElementId": "10",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -885,7 +885,7 @@
             "id": 107,
             "firstCraftElementId": "50",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -893,7 +893,7 @@
             "id": 108,
             "firstCraftElementId": "107",
             "secondCraftElementId": "16",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -901,7 +901,7 @@
             "id": 109,
             "firstCraftElementId": "246",
             "secondCraftElementId": "307",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -909,7 +909,7 @@
             "id": 110,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "251",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -917,7 +917,7 @@
             "id": 111,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "81",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -925,7 +925,7 @@
             "id": 112,
             "firstCraftElementId": "267",
             "secondCraftElementId": "69",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -933,7 +933,7 @@
             "id": 113,
             "firstCraftElementId": "10",
             "secondCraftElementId": "10",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -941,7 +941,7 @@
             "id": 114,
             "firstCraftElementId": "225",
             "secondCraftElementId": "77",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -949,7 +949,7 @@
             "id": 115,
             "firstCraftElementId": "200",
             "secondCraftElementId": "25",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -957,7 +957,7 @@
             "id": 116,
             "firstCraftElementId": "43",
             "secondCraftElementId": "101",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -965,7 +965,7 @@
             "id": 117,
             "firstCraftElementId": "36",
             "secondCraftElementId": "261",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -973,7 +973,7 @@
             "id": 118,
             "firstCraftElementId": "39",
             "secondCraftElementId": "276",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -981,7 +981,7 @@
             "id": 119,
             "firstCraftElementId": "90",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -989,7 +989,7 @@
             "id": 120,
             "firstCraftElementId": "221",
             "secondCraftElementId": "307",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -997,7 +997,7 @@
             "id": 121,
             "firstCraftElementId": "47",
             "secondCraftElementId": "195",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1005,7 +1005,7 @@
             "id": 122,
             "firstCraftElementId": "267",
             "secondCraftElementId": "267",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -1013,7 +1013,7 @@
             "id": 123,
             "firstCraftElementId": "80",
             "secondCraftElementId": "171",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -1021,7 +1021,7 @@
             "id": 124,
             "firstCraftElementId": "185",
             "secondCraftElementId": "167",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1029,7 +1029,7 @@
             "id": 125,
             "firstCraftElementId": "124",
             "secondCraftElementId": "260",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1037,7 +1037,7 @@
             "id": 126,
             "firstCraftElementId": "95",
             "secondCraftElementId": "79",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1045,7 +1045,7 @@
             "id": 127,
             "firstCraftElementId": "62",
             "secondCraftElementId": "201",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -1053,7 +1053,7 @@
             "id": 128,
             "firstCraftElementId": "39",
             "secondCraftElementId": "81",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -1061,7 +1061,7 @@
             "id": 129,
             "firstCraftElementId": "330",
             "secondCraftElementId": "77",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -1069,7 +1069,7 @@
             "id": 130,
             "firstCraftElementId": "129",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1077,7 +1077,7 @@
             "id": 131,
             "firstCraftElementId": "188",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1093,7 +1093,7 @@
             "id": 133,
             "firstCraftElementId": "266",
             "secondCraftElementId": "324",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1101,7 +1101,7 @@
             "id": 134,
             "firstCraftElementId": "328",
             "secondCraftElementId": "316",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -1117,7 +1117,7 @@
             "id": 136,
             "firstCraftElementId": "221",
             "secondCraftElementId": "167",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1125,7 +1125,7 @@
             "id": 137,
             "firstCraftElementId": "306",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -1133,7 +1133,7 @@
             "id": 138,
             "firstCraftElementId": "197",
             "secondCraftElementId": "307",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1141,7 +1141,7 @@
             "id": 139,
             "firstCraftElementId": "281",
             "secondCraftElementId": "64",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1149,7 +1149,7 @@
             "id": 140,
             "firstCraftElementId": "265",
             "secondCraftElementId": "327",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -1157,7 +1157,7 @@
             "id": 141,
             "firstCraftElementId": "10",
             "secondCraftElementId": "58",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1165,7 +1165,7 @@
             "id": 142,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "256",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1173,7 +1173,7 @@
             "id": 143,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1185,11 +1185,11 @@
             "opened": false
         },
         {
-            "name": "Любовь",
+            "name": "Секс",
             "id": 145,
             "firstCraftElementId": "311",
             "secondCraftElementId": "311",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1197,7 +1197,7 @@
             "id": 146,
             "firstCraftElementId": "19",
             "secondCraftElementId": "332",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -1205,7 +1205,7 @@
             "id": 147,
             "firstCraftElementId": "152",
             "secondCraftElementId": "324",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -1213,7 +1213,7 @@
             "id": 148,
             "firstCraftElementId": "160",
             "secondCraftElementId": "276",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1221,7 +1221,7 @@
             "id": 149,
             "firstCraftElementId": "81",
             "secondCraftElementId": "135",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -1229,7 +1229,7 @@
             "id": 150,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "211",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1237,7 +1237,7 @@
             "id": 151,
             "firstCraftElementId": "267",
             "secondCraftElementId": "275",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -1245,7 +1245,7 @@
             "id": 152,
             "firstCraftElementId": "97",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -1253,7 +1253,7 @@
             "id": 153,
             "firstCraftElementId": "223",
             "secondCraftElementId": "307",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1261,7 +1261,7 @@
             "id": 154,
             "firstCraftElementId": "155",
             "secondCraftElementId": "201",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1269,7 +1269,7 @@
             "id": 155,
             "firstCraftElementId": "211",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1277,7 +1277,7 @@
             "id": 156,
             "firstCraftElementId": "311",
             "secondCraftElementId": "68",
-            "category": "0",
+            "category": "2",
             "opened": false
         },
         {
@@ -1293,7 +1293,7 @@
             "id": 158,
             "firstCraftElementId": "179",
             "secondCraftElementId": "264",
-            "category": "0",
+            "category": "1",
             "opened": false
         },
         {
@@ -1301,7 +1301,7 @@
             "id": 159,
             "firstCraftElementId": "211",
             "secondCraftElementId": "201",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1309,7 +1309,7 @@
             "id": 160,
             "firstCraftElementId": "190",
             "secondCraftElementId": "15",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1317,7 +1317,7 @@
             "id": 161,
             "firstCraftElementId": "160",
             "secondCraftElementId": "29",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1325,7 +1325,7 @@
             "id": 162,
             "firstCraftElementId": "19",
             "secondCraftElementId": "38",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1333,7 +1333,7 @@
             "id": 163,
             "firstCraftElementId": "86",
             "secondCraftElementId": "82",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -1341,7 +1341,7 @@
             "id": 164,
             "firstCraftElementId": "224",
             "secondCraftElementId": "97",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1349,7 +1349,7 @@
             "id": 165,
             "firstCraftElementId": "285",
             "secondCraftElementId": "279",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1357,7 +1357,7 @@
             "id": 166,
             "firstCraftElementId": "170",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1365,7 +1365,7 @@
             "id": 167,
             "firstCraftElementId": "81",
             "secondCraftElementId": "271",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1373,7 +1373,7 @@
             "id": 168,
             "firstCraftElementId": "185",
             "secondCraftElementId": "81",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1381,7 +1381,7 @@
             "id": 169,
             "firstCraftElementId": "281",
             "secondCraftElementId": "68",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -1389,7 +1389,7 @@
             "id": 170,
             "firstCraftElementId": "1004",
             "secondCraftElementId": "79",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1405,7 +1405,7 @@
             "id": 172,
             "firstCraftElementId": "108",
             "secondCraftElementId": "266",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1413,7 +1413,7 @@
             "id": 173,
             "firstCraftElementId": "280",
             "secondCraftElementId": "62",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -1421,7 +1421,7 @@
             "id": 174,
             "firstCraftElementId": "133",
             "secondCraftElementId": "64",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1429,7 +1429,7 @@
             "id": 175,
             "firstCraftElementId": "311",
             "secondCraftElementId": "320",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -1445,7 +1445,7 @@
             "id": 177,
             "firstCraftElementId": "182",
             "secondCraftElementId": "218",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1453,7 +1453,7 @@
             "id": 178,
             "firstCraftElementId": "279",
             "secondCraftElementId": "311",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1469,7 +1469,7 @@
             "id": 180,
             "firstCraftElementId": "109",
             "secondCraftElementId": "324",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -1485,7 +1485,7 @@
             "id": 182,
             "firstCraftElementId": "152",
             "secondCraftElementId": "90",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1493,7 +1493,7 @@
             "id": 183,
             "firstCraftElementId": "51",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1501,7 +1501,7 @@
             "id": 184,
             "firstCraftElementId": "182",
             "secondCraftElementId": "328",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1509,7 +1509,7 @@
             "id": 185,
             "firstCraftElementId": "311",
             "secondCraftElementId": "182",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1517,7 +1517,7 @@
             "id": 186,
             "firstCraftElementId": "188",
             "secondCraftElementId": "201",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1525,7 +1525,7 @@
             "id": 187,
             "firstCraftElementId": "64",
             "secondCraftElementId": "81",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1533,7 +1533,7 @@
             "id": 188,
             "firstCraftElementId": "162",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1541,7 +1541,7 @@
             "id": 189,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -1549,7 +1549,7 @@
             "id": 190,
             "firstCraftElementId": "191",
             "secondCraftElementId": "289",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1557,7 +1557,7 @@
             "id": 191,
             "firstCraftElementId": "152",
             "secondCraftElementId": "189",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1565,7 +1565,7 @@
             "id": 192,
             "firstCraftElementId": "276",
             "secondCraftElementId": "190",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1573,7 +1573,7 @@
             "id": 193,
             "firstCraftElementId": "190",
             "secondCraftElementId": "65",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1581,7 +1581,7 @@
             "id": 194,
             "firstCraftElementId": "143",
             "secondCraftElementId": "279",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1589,7 +1589,7 @@
             "id": 195,
             "firstCraftElementId": "279",
             "secondCraftElementId": "65",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1597,7 +1597,7 @@
             "id": 196,
             "firstCraftElementId": "314",
             "secondCraftElementId": "97",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1605,7 +1605,7 @@
             "id": 197,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "282",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1613,7 +1613,7 @@
             "id": 198,
             "firstCraftElementId": "295",
             "secondCraftElementId": "212",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -1621,7 +1621,7 @@
             "id": 199,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "225",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -1629,7 +1629,7 @@
             "id": 200,
             "firstCraftElementId": "221",
             "secondCraftElementId": "185",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -1645,7 +1645,7 @@
             "id": 202,
             "firstCraftElementId": "201",
             "secondCraftElementId": "266",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -1653,7 +1653,7 @@
             "id": 203,
             "firstCraftElementId": "265",
             "secondCraftElementId": "305",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -1661,7 +1661,7 @@
             "id": 204,
             "firstCraftElementId": "311",
             "secondCraftElementId": "241",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1669,7 +1669,7 @@
             "id": 205,
             "firstCraftElementId": "232",
             "secondCraftElementId": "156",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -1677,7 +1677,7 @@
             "id": 206,
             "firstCraftElementId": "137",
             "secondCraftElementId": "221",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1685,7 +1685,7 @@
             "id": 207,
             "firstCraftElementId": "286",
             "secondCraftElementId": "232",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1693,7 +1693,7 @@
             "id": 208,
             "firstCraftElementId": "278",
             "secondCraftElementId": "271",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1701,7 +1701,7 @@
             "id": 209,
             "firstCraftElementId": "312",
             "secondCraftElementId": "128",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1709,7 +1709,7 @@
             "id": 210,
             "firstCraftElementId": "122",
             "secondCraftElementId": "122",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -1717,7 +1717,7 @@
             "id": 211,
             "firstCraftElementId": "10",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1725,7 +1725,7 @@
             "id": 212,
             "firstCraftElementId": "61",
             "secondCraftElementId": "58",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -1733,7 +1733,7 @@
             "id": 213,
             "firstCraftElementId": "107",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1741,7 +1741,7 @@
             "id": 214,
             "firstCraftElementId": "215",
             "secondCraftElementId": "62",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -1749,7 +1749,7 @@
             "id": 215,
             "firstCraftElementId": "307",
             "secondCraftElementId": "263",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1757,7 +1757,7 @@
             "id": 216,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "39",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1765,7 +1765,7 @@
             "id": 217,
             "firstCraftElementId": "227",
             "secondCraftElementId": "221",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1773,7 +1773,7 @@
             "id": 218,
             "firstCraftElementId": "251",
             "secondCraftElementId": "249",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -1781,7 +1781,7 @@
             "id": 219,
             "firstCraftElementId": "199",
             "secondCraftElementId": "77",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1789,7 +1789,7 @@
             "id": 220,
             "firstCraftElementId": "1004",
             "secondCraftElementId": "66",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1797,7 +1797,7 @@
             "id": 221,
             "firstCraftElementId": "1004",
             "secondCraftElementId": "330",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -1813,7 +1813,7 @@
             "id": 223,
             "firstCraftElementId": "307",
             "secondCraftElementId": "79",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -1821,7 +1821,7 @@
             "id": 224,
             "firstCraftElementId": "197",
             "secondCraftElementId": "281",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1837,7 +1837,7 @@
             "id": 226,
             "firstCraftElementId": "8",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -1861,7 +1861,7 @@
             "id": 229,
             "firstCraftElementId": "197",
             "secondCraftElementId": "284",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1869,7 +1869,7 @@
             "id": 230,
             "firstCraftElementId": "47",
             "secondCraftElementId": "135",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1877,7 +1877,7 @@
             "id": 231,
             "firstCraftElementId": "295",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1885,7 +1885,7 @@
             "id": 232,
             "firstCraftElementId": "207",
             "secondCraftElementId": "265",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -1893,7 +1893,7 @@
             "id": 233,
             "firstCraftElementId": "267",
             "secondCraftElementId": "149",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -1909,7 +1909,7 @@
             "id": 235,
             "firstCraftElementId": "267",
             "secondCraftElementId": "283",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -1917,7 +1917,7 @@
             "id": 236,
             "firstCraftElementId": "10",
             "secondCraftElementId": "211",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -1925,7 +1925,7 @@
             "id": 237,
             "firstCraftElementId": "185",
             "secondCraftElementId": "236",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -1933,7 +1933,7 @@
             "id": 238,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "332",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -1941,7 +1941,7 @@
             "id": 239,
             "firstCraftElementId": "185",
             "secondCraftElementId": "248",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1949,7 +1949,7 @@
             "id": 240,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "71",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -1957,7 +1957,7 @@
             "id": 241,
             "firstCraftElementId": "221",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -1965,7 +1965,7 @@
             "id": 242,
             "firstCraftElementId": "267",
             "secondCraftElementId": "173",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -1973,7 +1973,7 @@
             "id": 243,
             "firstCraftElementId": "189",
             "secondCraftElementId": "304",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -1981,7 +1981,7 @@
             "id": 244,
             "firstCraftElementId": "284",
             "secondCraftElementId": "62",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -1989,7 +1989,7 @@
             "id": 245,
             "firstCraftElementId": "295",
             "secondCraftElementId": "284",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -1997,7 +1997,7 @@
             "id": 246,
             "firstCraftElementId": "133",
             "secondCraftElementId": "324",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -2005,7 +2005,7 @@
             "id": 247,
             "firstCraftElementId": "246",
             "secondCraftElementId": "79",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2013,7 +2013,7 @@
             "id": 248,
             "firstCraftElementId": "68",
             "secondCraftElementId": "61",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -2021,7 +2021,7 @@
             "id": 249,
             "firstCraftElementId": "87",
             "secondCraftElementId": "169",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2029,7 +2029,7 @@
             "id": 250,
             "firstCraftElementId": "77",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2037,7 +2037,7 @@
             "id": 251,
             "firstCraftElementId": "10",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2045,7 +2045,7 @@
             "id": 252,
             "firstCraftElementId": "152",
             "secondCraftElementId": "144",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2053,7 +2053,7 @@
             "id": 253,
             "firstCraftElementId": "25",
             "secondCraftElementId": "273",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2061,7 +2061,7 @@
             "id": 254,
             "firstCraftElementId": "79",
             "secondCraftElementId": "169",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2069,7 +2069,7 @@
             "id": 255,
             "firstCraftElementId": "20",
             "secondCraftElementId": "148",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -2077,7 +2077,7 @@
             "id": 256,
             "firstCraftElementId": "79",
             "secondCraftElementId": "201",
-            "category": "0",
+            "category": "6",
             "opened": false
         },
         {
@@ -2085,7 +2085,7 @@
             "id": 257,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "244",
-            "category": "0",
+            "category": "2",
             "opened": false
         },
         {
@@ -2093,7 +2093,7 @@
             "id": 258,
             "firstCraftElementId": "155",
             "secondCraftElementId": "19",
-            "category": "0",
+            "category": "5",
             "opened": false
         },
         {
@@ -2101,7 +2101,7 @@
             "id": 259,
             "firstCraftElementId": "81",
             "secondCraftElementId": "89",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2109,7 +2109,7 @@
             "id": 260,
             "firstCraftElementId": "311",
             "secondCraftElementId": "40",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2117,7 +2117,7 @@
             "id": 261,
             "firstCraftElementId": "302",
             "secondCraftElementId": "62",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2125,7 +2125,7 @@
             "id": 262,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "264",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2133,7 +2133,7 @@
             "id": 263,
             "firstCraftElementId": "118",
             "secondCraftElementId": "171",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -2141,7 +2141,7 @@
             "id": 264,
             "firstCraftElementId": "110",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2149,7 +2149,7 @@
             "id": 265,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "326",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2157,7 +2157,7 @@
             "id": 266,
             "firstCraftElementId": "201",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -2165,7 +2165,7 @@
             "id": 267,
             "firstCraftElementId": "52",
             "secondCraftElementId": "52",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -2173,7 +2173,7 @@
             "id": 268,
             "firstCraftElementId": "170",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -2181,7 +2181,7 @@
             "id": 269,
             "firstCraftElementId": "152",
             "secondCraftElementId": "111",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -2189,7 +2189,7 @@
             "id": 270,
             "firstCraftElementId": "38",
             "secondCraftElementId": "236",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2197,7 +2197,7 @@
             "id": 271,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "274",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2205,7 +2205,7 @@
             "id": 272,
             "firstCraftElementId": "305",
             "secondCraftElementId": "168",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2213,7 +2213,7 @@
             "id": 273,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "281",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2221,7 +2221,7 @@
             "id": 274,
             "firstCraftElementId": "106",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2229,7 +2229,7 @@
             "id": 275,
             "firstCraftElementId": "312",
             "secondCraftElementId": "265",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2237,7 +2237,7 @@
             "id": 276,
             "firstCraftElementId": "119",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -2245,7 +2245,7 @@
             "id": 277,
             "firstCraftElementId": "166",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -2253,7 +2253,7 @@
             "id": 278,
             "firstCraftElementId": "164",
             "secondCraftElementId": "1002",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2261,7 +2261,7 @@
             "id": 279,
             "firstCraftElementId": "90",
             "secondCraftElementId": "320",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -2269,7 +2269,7 @@
             "id": 280,
             "firstCraftElementId": "64",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2277,7 +2277,7 @@
             "id": 281,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "190",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2285,7 +2285,7 @@
             "id": 282,
             "firstCraftElementId": "1003",
             "secondCraftElementId": "190",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -2293,7 +2293,7 @@
             "id": 283,
             "firstCraftElementId": "27",
             "secondCraftElementId": "267",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -2301,7 +2301,7 @@
             "id": 284,
             "firstCraftElementId": "281",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2309,7 +2309,7 @@
             "id": 285,
             "firstCraftElementId": "311",
             "secondCraftElementId": "328",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -2317,7 +2317,7 @@
             "id": 286,
             "firstCraftElementId": "311",
             "secondCraftElementId": "177",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -2325,7 +2325,7 @@
             "id": 287,
             "firstCraftElementId": "311",
             "secondCraftElementId": "109",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2333,7 +2333,7 @@
             "id": 288,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "70",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2341,7 +2341,7 @@
             "id": 289,
             "firstCraftElementId": "1001",
             "secondCraftElementId": "64",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -2349,7 +2349,7 @@
             "id": 290,
             "firstCraftElementId": "267",
             "secondCraftElementId": "239",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -2357,7 +2357,7 @@
             "id": 291,
             "firstCraftElementId": "109",
             "secondCraftElementId": "265",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2365,7 +2365,7 @@
             "id": 292,
             "firstCraftElementId": "312",
             "secondCraftElementId": "228",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2373,7 +2373,7 @@
             "id": 293,
             "firstCraftElementId": "81",
             "secondCraftElementId": "276",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -2381,7 +2381,7 @@
             "id": 294,
             "firstCraftElementId": "152",
             "secondCraftElementId": "226",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2389,7 +2389,7 @@
             "id": 295,
             "firstCraftElementId": "17",
             "secondCraftElementId": "311",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -2397,7 +2397,7 @@
             "id": 296,
             "firstCraftElementId": "221",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -2405,7 +2405,7 @@
             "id": 297,
             "firstCraftElementId": "115",
             "secondCraftElementId": "295",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -2413,7 +2413,7 @@
             "id": 298,
             "firstCraftElementId": "297",
             "secondCraftElementId": "97",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -2421,7 +2421,7 @@
             "id": 299,
             "firstCraftElementId": "267",
             "secondCraftElementId": "243",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -2429,7 +2429,7 @@
             "id": 300,
             "firstCraftElementId": "148",
             "secondCraftElementId": "79",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -2437,7 +2437,7 @@
             "id": 301,
             "firstCraftElementId": "267",
             "secondCraftElementId": "317",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -2445,7 +2445,7 @@
             "id": 302,
             "firstCraftElementId": "64",
             "secondCraftElementId": "307",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2453,7 +2453,7 @@
             "id": 303,
             "firstCraftElementId": "236",
             "secondCraftElementId": "328",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2461,7 +2461,7 @@
             "id": 304,
             "firstCraftElementId": "311",
             "secondCraftElementId": "97",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -2469,7 +2469,7 @@
             "id": 305,
             "firstCraftElementId": "278",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2477,7 +2477,7 @@
             "id": 306,
             "firstCraftElementId": "176",
             "secondCraftElementId": "31",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -2485,7 +2485,7 @@
             "id": 307,
             "firstCraftElementId": "1002",
             "secondCraftElementId": "250",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2493,7 +2493,7 @@
             "id": 308,
             "firstCraftElementId": "50",
             "secondCraftElementId": "87",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -2501,7 +2501,7 @@
             "id": 309,
             "firstCraftElementId": "131",
             "secondCraftElementId": "89",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2509,7 +2509,7 @@
             "id": 310,
             "firstCraftElementId": "90",
             "secondCraftElementId": "41",
-            "category": "1",
+            "category": "10",
             "opened": false
         },
         {
@@ -2517,7 +2517,7 @@
             "id": 311,
             "firstCraftElementId": "77",
             "secondCraftElementId": "81",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -2525,7 +2525,7 @@
             "id": 312,
             "firstCraftElementId": "10",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -2533,7 +2533,7 @@
             "id": 313,
             "firstCraftElementId": "330",
             "secondCraftElementId": "201",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -2541,7 +2541,7 @@
             "id": 314,
             "firstCraftElementId": "211",
             "secondCraftElementId": "1003",
-            "category": "1",
+            "category": "5",
             "opened": false
         },
         {
@@ -2549,7 +2549,7 @@
             "id": 315,
             "firstCraftElementId": "289",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "3",
             "opened": false
         },
         {
@@ -2557,7 +2557,7 @@
             "id": 316,
             "firstCraftElementId": "311",
             "secondCraftElementId": "58",
-            "category": "1",
+            "category": "7",
             "opened": false
         },
         {
@@ -2565,7 +2565,7 @@
             "id": 317,
             "firstCraftElementId": "33",
             "secondCraftElementId": "287",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2573,7 +2573,7 @@
             "id": 318,
             "firstCraftElementId": "123",
             "secondCraftElementId": "241",
-            "category": "1",
+            "category": "9",
             "opened": false
         },
         {
@@ -2581,7 +2581,7 @@
             "id": 319,
             "firstCraftElementId": "267",
             "secondCraftElementId": "310",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -2589,7 +2589,7 @@
             "id": 320,
             "firstCraftElementId": "68",
             "secondCraftElementId": "90",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -2597,7 +2597,7 @@
             "id": 321,
             "firstCraftElementId": "94",
             "secondCraftElementId": "244",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2605,7 +2605,7 @@
             "id": 322,
             "firstCraftElementId": "324",
             "secondCraftElementId": "236",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2613,7 +2613,7 @@
             "id": 323,
             "firstCraftElementId": "324",
             "secondCraftElementId": "83",
-            "category": "1",
+            "category": "13",
             "opened": false
         },
         {
@@ -2621,7 +2621,7 @@
             "id": 324,
             "firstCraftElementId": "326",
             "secondCraftElementId": "152",
-            "category": "1",
+            "category": "4",
             "opened": false
         },
         {
@@ -2629,7 +2629,7 @@
             "id": 325,
             "firstCraftElementId": "203",
             "secondCraftElementId": "28",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2637,7 +2637,7 @@
             "id": 326,
             "firstCraftElementId": "1004",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "0",
             "opened": false
         },
         {
@@ -2645,7 +2645,7 @@
             "id": 327,
             "firstCraftElementId": "302",
             "secondCraftElementId": "281",
-            "category": "1",
+            "category": "8",
             "opened": false
         },
         {
@@ -2653,7 +2653,7 @@
             "id": 328,
             "firstCraftElementId": "90",
             "secondCraftElementId": "256",
-            "category": "1",
+            "category": "2",
             "opened": false
         },
         {
@@ -2661,7 +2661,7 @@
             "id": 329,
             "firstCraftElementId": "330",
             "secondCraftElementId": "1001",
-            "category": "1",
+            "category": "11",
             "opened": false
         },
         {
@@ -2669,7 +2669,7 @@
             "id": 330,
             "firstCraftElementId": "77",
             "secondCraftElementId": "97",
-            "category": "1",
+            "category": "6",
             "opened": false
         },
         {
@@ -2677,7 +2677,7 @@
             "id": 331,
             "firstCraftElementId": "267",
             "secondCraftElementId": "270",
-            "category": "1",
+            "category": "12",
             "opened": false
         },
         {
@@ -2685,7 +2685,31 @@
             "id": 332,
             "firstCraftElementId": "330",
             "secondCraftElementId": "19",
-            "category": "1",
+            "category": "6",
+            "opened": false
+        },
+        {
+            "name": "Психолог детского сада",
+            "id": 333,
+            "firstCraftElementId": "145",
+            "secondCraftElementId": "311",
+            "category": "7",
+            "opened": false
+        },
+        {
+            "name": "Двенаха",
+            "id": 334,
+            "firstCraftElementId": "241",
+            "secondCraftElementId": "148",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Пятнаха",
+            "id": 335,
+            "firstCraftElementId": "118",
+            "secondCraftElementId": "24",
+            "category": "0",
             "opened": false
         }
     ]
