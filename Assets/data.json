@@ -182,7 +182,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1002",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Больница",
@@ -237,6 +237,2454 @@
             "id": 26,
             "firstCraftElementId": "1004",
             "secondCraftElementId": "326",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Вампир",
+            "id": 27,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "128",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Великобритания",
+            "id": 28,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "230",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Велосипед",
+            "id": 29,
+            "firstCraftElementId": "119",
+            "secondCraftElementId": "119",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Верблюд",
+            "id": 30,
+            "firstCraftElementId": "81",
+            "secondCraftElementId": "222",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Ветер",
+            "id": 31,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "1004",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Взрыв",
+            "id": 32,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "173",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Вино",
+            "id": 33,
+            "firstCraftElementId": "34",
+            "secondCraftElementId": "10",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Виноград",
+            "id": 34,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Виски",
+            "id": 35,
+            "firstCraftElementId": "224",
+            "secondCraftElementId": "265",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Водка",
+            "id": 36,
+            "firstCraftElementId": "265",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Водород",
+            "id": 37,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "324",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Водоросли",
+            "id": 38,
+            "firstCraftElementId": "77",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Воин",
+            "id": 39,
+            "firstCraftElementId": "182",
+            "secondCraftElementId": "185",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Волк",
+            "id": 40,
+            "firstCraftElementId": "81",
+            "secondCraftElementId": "144",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Время",
+            "id": 41,
+            "firstCraftElementId": "202",
+            "secondCraftElementId": "77",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Вулкан",
+            "id": 42,
+            "firstCraftElementId": "62",
+            "secondCraftElementId": "132",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Газировка",
+            "id": 43,
+            "firstCraftElementId": "287",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Газонокосилка",
+            "id": 44,
+            "firstCraftElementId": "90",
+            "secondCraftElementId": "281",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Гейзер",
+            "id": 45,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "189",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Германия",
+            "id": 46,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "300",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Герой",
+            "id": 47,
+            "firstCraftElementId": "69",
+            "secondCraftElementId": "39",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Гидроплан",
+            "id": 48,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "241",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Гладиатор",
+            "id": 49,
+            "firstCraftElementId": "39",
+            "secondCraftElementId": "118",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Глина",
+            "id": 50,
+            "firstCraftElementId": "201",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Головоногие",
+            "id": 51,
+            "firstCraftElementId": "155",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Город",
+            "id": 52,
+            "firstCraftElementId": "172",
+            "secondCraftElementId": "172",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Горох",
+            "id": 53,
+            "firstCraftElementId": "250",
+            "secondCraftElementId": "197",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Гремучий газ",
+            "id": 54,
+            "firstCraftElementId": "109",
+            "secondCraftElementId": "37",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Гренки",
+            "id": 55,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "305",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Гренландия",
+            "id": 56,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "306",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Грипп",
+            "id": 57,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "10",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Гриб",
+            "id": 58,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "38",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Гриф",
+            "id": 59,
+            "firstCraftElementId": "221",
+            "secondCraftElementId": "128",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Гром",
+            "id": 60,
+            "firstCraftElementId": "26",
+            "secondCraftElementId": "82",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Грязь",
+            "id": 61,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "225",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Давление",
+            "id": 62,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Деньги",
+            "id": 63,
+            "firstCraftElementId": "157",
+            "secondCraftElementId": "25",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Дерево",
+            "id": 64,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "250",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Деревянный корабль",
+            "id": 65,
+            "firstCraftElementId": "143",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Динозавр",
+            "id": 66,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "330",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Доктор",
+            "id": 67,
+            "firstCraftElementId": "295",
+            "secondCraftElementId": "21",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Домашний скот",
+            "id": 68,
+            "firstCraftElementId": "81",
+            "secondCraftElementId": "311",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Дракон",
+            "id": 69,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "66",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Древесина",
+            "id": 70,
+            "firstCraftElementId": "90",
+            "secondCraftElementId": "64",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Дрожжи",
+            "id": 71,
+            "firstCraftElementId": "305",
+            "secondCraftElementId": "10",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Духи",
+            "id": 72,
+            "firstCraftElementId": "307",
+            "secondCraftElementId": "265",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Дым",
+            "id": 73,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "273",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Дятел",
+            "id": 74,
+            "firstCraftElementId": "221",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Египет",
+            "id": 75,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "165",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Жемчуг",
+            "id": 76,
+            "firstCraftElementId": "201",
+            "secondCraftElementId": "228",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Жизнь",
+            "id": 77,
+            "firstCraftElementId": "326",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Жир",
+            "id": 78,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "248",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Жук",
+            "id": 79,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "312",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Звезда",
+            "id": 80,
+            "firstCraftElementId": "295",
+            "secondCraftElementId": "263",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Зверь",
+            "id": 81,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "332",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Звук",
+            "id": 82,
+            "firstCraftElementId": "31",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Змея",
+            "id": 83,
+            "firstCraftElementId": "19",
+            "secondCraftElementId": "312",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Золото",
+            "id": 84,
+            "firstCraftElementId": "298",
+            "secondCraftElementId": "5",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Зомби",
+            "id": 85,
+            "firstCraftElementId": "285",
+            "secondCraftElementId": "77",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Идея",
+            "id": 86,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "133",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Известняк",
+            "id": 87,
+            "firstCraftElementId": "97",
+            "secondCraftElementId": "228",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Икра",
+            "id": 88,
+            "firstCraftElementId": "236",
+            "secondCraftElementId": "236",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Индия",
+            "id": 89,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "96",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Инструмент",
+            "id": 90,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Исландия",
+            "id": 91,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "42",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Италия",
+            "id": 92,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "208",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Йод",
+            "id": 93,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "38",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Какао",
+            "id": 94,
+            "firstCraftElementId": "250",
+            "secondCraftElementId": "151",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кактус",
+            "id": 95,
+            "firstCraftElementId": "64",
+            "secondCraftElementId": "222",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Камасутра",
+            "id": 96,
+            "firstCraftElementId": "115",
+            "secondCraftElementId": "145",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Камень",
+            "id": 97,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "132",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Камыш",
+            "id": 98,
+            "firstCraftElementId": "281",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Канада",
+            "id": 99,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "64",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Карамаель",
+            "id": 100,
+            "firstCraftElementId": "244",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кармин",
+            "id": 101,
+            "firstCraftElementId": "126",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Картофель",
+            "id": 102,
+            "firstCraftElementId": "282",
+            "secondCraftElementId": "197",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Катер",
+            "id": 103,
+            "firstCraftElementId": "160",
+            "secondCraftElementId": "143",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кенгуру",
+            "id": 104,
+            "firstCraftElementId": "146",
+            "secondCraftElementId": "81",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Керамика",
+            "id": 105,
+            "firstCraftElementId": "50",
+            "secondCraftElementId": "311",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кефир",
+            "id": 106,
+            "firstCraftElementId": "156",
+            "secondCraftElementId": "10",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кирпич",
+            "id": 107,
+            "firstCraftElementId": "50",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кирпичный дом",
+            "id": 108,
+            "firstCraftElementId": "107",
+            "secondCraftElementId": "16",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кислород",
+            "id": 109,
+            "firstCraftElementId": "246",
+            "secondCraftElementId": "307",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кислота",
+            "id": 110,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "251",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кит",
+            "id": 111,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "81",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Китай",
+            "id": 112,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "69",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Клетки",
+            "id": 113,
+            "firstCraftElementId": "10",
+            "secondCraftElementId": "10",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Клещ",
+            "id": 114,
+            "firstCraftElementId": "225",
+            "secondCraftElementId": "77",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Книга",
+            "id": 115,
+            "firstCraftElementId": "200",
+            "secondCraftElementId": "25",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кока-кола",
+            "id": 116,
+            "firstCraftElementId": "43",
+            "secondCraftElementId": "101",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Коктейль",
+            "id": 117,
+            "firstCraftElementId": "36",
+            "secondCraftElementId": "261",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Колесница",
+            "id": 118,
+            "firstCraftElementId": "39",
+            "secondCraftElementId": "276",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Колесо",
+            "id": 119,
+            "firstCraftElementId": "90",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Колибри",
+            "id": 120,
+            "firstCraftElementId": "221",
+            "secondCraftElementId": "307",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Колумб",
+            "id": 121,
+            "firstCraftElementId": "47",
+            "secondCraftElementId": "195",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Континент",
+            "id": 122,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "267",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Космос",
+            "id": 123,
+            "firstCraftElementId": "80",
+            "secondCraftElementId": "171",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кот",
+            "id": 124,
+            "firstCraftElementId": "185",
+            "secondCraftElementId": "167",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Котопёс",
+            "id": 125,
+            "firstCraftElementId": "124",
+            "secondCraftElementId": "260",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кошениль",
+            "id": 126,
+            "firstCraftElementId": "95",
+            "secondCraftElementId": "79",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кремний",
+            "id": 127,
+            "firstCraftElementId": "62",
+            "secondCraftElementId": "201",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Кровь",
+            "id": 128,
+            "firstCraftElementId": "39",
+            "secondCraftElementId": "81",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Курица",
+            "id": 129,
+            "firstCraftElementId": "330",
+            "secondCraftElementId": "77",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Курица-гриль",
+            "id": 130,
+            "firstCraftElementId": "129",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Куст",
+            "id": 131,
+            "firstCraftElementId": "188",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лава",
+            "id": 132,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лампочка",
+            "id": 133,
+            "firstCraftElementId": "266",
+            "secondCraftElementId": "324",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лекарство",
+            "id": 134,
+            "firstCraftElementId": "328",
+            "secondCraftElementId": "316",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лес",
+            "id": 135,
+            "firstCraftElementId": "234",
+            "secondCraftElementId": "234",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Летучая мышь",
+            "id": 136,
+            "firstCraftElementId": "221",
+            "secondCraftElementId": "167",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лёд",
+            "id": 137,
+            "firstCraftElementId": "306",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лён",
+            "id": 138,
+            "firstCraftElementId": "197",
+            "secondCraftElementId": "307",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лиана",
+            "id": 139,
+            "firstCraftElementId": "281",
+            "secondCraftElementId": "64",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Ликёр",
+            "id": 140,
+            "firstCraftElementId": "265",
+            "secondCraftElementId": "327",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лишайник",
+            "id": 141,
+            "firstCraftElementId": "10",
+            "secondCraftElementId": "58",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лобстер",
+            "id": 142,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "256",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лодка",
+            "id": 143,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Луна",
+            "id": 144,
+            "firstCraftElementId": "171",
+            "secondCraftElementId": "271",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Любовь",
+            "id": 145,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "311",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Лягушка",
+            "id": 146,
+            "firstCraftElementId": "19",
+            "secondCraftElementId": "332",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Магнит",
+            "id": 147,
+            "firstCraftElementId": "152",
+            "secondCraftElementId": "324",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Машина",
+            "id": 148,
+            "firstCraftElementId": "160",
+            "secondCraftElementId": "276",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Медведь",
+            "id": 149,
+            "firstCraftElementId": "81",
+            "secondCraftElementId": "135",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Медуза",
+            "id": 150,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "211",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мексика",
+            "id": 151,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "275",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Металл",
+            "id": 152,
+            "firstCraftElementId": "97",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мёд",
+            "id": 153,
+            "firstCraftElementId": "223",
+            "secondCraftElementId": "307",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мидии",
+            "id": 154,
+            "firstCraftElementId": "155",
+            "secondCraftElementId": "201",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Молюски",
+            "id": 155,
+            "firstCraftElementId": "211",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Молоко",
+            "id": 156,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "68",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Монета",
+            "id": 157,
+            "firstCraftElementId": "62",
+            "secondCraftElementId": "252",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Море",
+            "id": 158,
+            "firstCraftElementId": "179",
+            "secondCraftElementId": "264",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Морская звезда",
+            "id": 159,
+            "firstCraftElementId": "211",
+            "secondCraftElementId": "201",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мотор (ДВС)",
+            "id": 160,
+            "firstCraftElementId": "190",
+            "secondCraftElementId": "15",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мотоцикл",
+            "id": 161,
+            "firstCraftElementId": "160",
+            "secondCraftElementId": "29",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мох",
+            "id": 162,
+            "firstCraftElementId": "19",
+            "secondCraftElementId": "38",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Музыка",
+            "id": 163,
+            "firstCraftElementId": "86",
+            "secondCraftElementId": "82",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мука",
+            "id": 164,
+            "firstCraftElementId": "224",
+            "secondCraftElementId": "97",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мумия",
+            "id": 165,
+            "firstCraftElementId": "285",
+            "secondCraftElementId": "279",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Муравьи",
+            "id": 166,
+            "firstCraftElementId": "170",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мышь",
+            "id": 167,
+            "firstCraftElementId": "81",
+            "secondCraftElementId": "271",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Мясо",
+            "id": 168,
+            "firstCraftElementId": "185",
+            "secondCraftElementId": "81",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Навоз",
+            "id": 169,
+            "firstCraftElementId": "281",
+            "secondCraftElementId": "68",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Насекомые",
+            "id": 170,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "79",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Небо",
+            "id": 171,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "176",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Небоскрёб",
+            "id": 172,
+            "firstCraftElementId": "108",
+            "secondCraftElementId": "266",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Нефть",
+            "id": 173,
+            "firstCraftElementId": "280",
+            "secondCraftElementId": "62",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Новогодняя ёлка",
+            "id": 174,
+            "firstCraftElementId": "133",
+            "secondCraftElementId": "64",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Обезьяна",
+            "id": 175,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "320",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Облако",
+            "id": 176,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "189",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Огнестрельное оружие",
+            "id": 177,
+            "firstCraftElementId": "182",
+            "secondCraftElementId": "218",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Одежда",
+            "id": 178,
+            "firstCraftElementId": "279",
+            "secondCraftElementId": "311",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Озеро",
+            "id": 179,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Озон",
+            "id": 180,
+            "firstCraftElementId": "109",
+            "secondCraftElementId": "324",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Океан",
+            "id": 181,
+            "firstCraftElementId": "158",
+            "secondCraftElementId": "158",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Оружие",
+            "id": 182,
+            "firstCraftElementId": "152",
+            "secondCraftElementId": "90",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Осьминог",
+            "id": 183,
+            "firstCraftElementId": "51",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Отравленное оружие",
+            "id": 184,
+            "firstCraftElementId": "182",
+            "secondCraftElementId": "328",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Охотник",
+            "id": 185,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "182",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пальма",
+            "id": 186,
+            "firstCraftElementId": "188",
+            "secondCraftElementId": "201",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Панда",
+            "id": 187,
+            "firstCraftElementId": "64",
+            "secondCraftElementId": "81",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Папоротник",
+            "id": 188,
+            "firstCraftElementId": "162",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пар",
+            "id": 189,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": true
+        },
+        {
+            "name": "Паровой двигатель",
+            "id": 190,
+            "firstCraftElementId": "191",
+            "secondCraftElementId": "289",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Паровой котёл",
+            "id": 191,
+            "firstCraftElementId": "152",
+            "secondCraftElementId": "189",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Паровоз",
+            "id": 192,
+            "firstCraftElementId": "276",
+            "secondCraftElementId": "190",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пароход",
+            "id": 193,
+            "firstCraftElementId": "190",
+            "secondCraftElementId": "65",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Парусная лодка",
+            "id": 194,
+            "firstCraftElementId": "143",
+            "secondCraftElementId": "279",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Парусник",
+            "id": 195,
+            "firstCraftElementId": "279",
+            "secondCraftElementId": "65",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Паук",
+            "id": 196,
+            "firstCraftElementId": "314",
+            "secondCraftElementId": "97",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пашня",
+            "id": 197,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "282",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пенициллин",
+            "id": 198,
+            "firstCraftElementId": "295",
+            "secondCraftElementId": "212",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пепел",
+            "id": 199,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "225",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Перо",
+            "id": 200,
+            "firstCraftElementId": "221",
+            "secondCraftElementId": "185",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Песок",
+            "id": 201,
+            "firstCraftElementId": "97",
+            "secondCraftElementId": "1004",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Песочные часы",
+            "id": 202,
+            "firstCraftElementId": "201",
+            "secondCraftElementId": "266",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пиво",
+            "id": 203,
+            "firstCraftElementId": "265",
+            "secondCraftElementId": "305",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пилот",
+            "id": 204,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "241",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пина колада",
+            "id": 205,
+            "firstCraftElementId": "232",
+            "secondCraftElementId": "156",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пингвин",
+            "id": 206,
+            "firstCraftElementId": "137",
+            "secondCraftElementId": "221",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пират",
+            "id": 207,
+            "firstCraftElementId": "286",
+            "secondCraftElementId": "232",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пицца",
+            "id": 208,
+            "firstCraftElementId": "278",
+            "secondCraftElementId": "271",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пиявка",
+            "id": 209,
+            "firstCraftElementId": "312",
+            "secondCraftElementId": "128",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Планета",
+            "id": 210,
+            "firstCraftElementId": "122",
+            "secondCraftElementId": "122",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Планктон",
+            "id": 211,
+            "firstCraftElementId": "10",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Плесень",
+            "id": 212,
+            "firstCraftElementId": "61",
+            "secondCraftElementId": "58",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Плотина",
+            "id": 213,
+            "firstCraftElementId": "107",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Подсолнечное масло",
+            "id": 214,
+            "firstCraftElementId": "215",
+            "secondCraftElementId": "62",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Подсолнух",
+            "id": 215,
+            "firstCraftElementId": "307",
+            "secondCraftElementId": "263",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пожарный",
+            "id": 216,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "39",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Попугай",
+            "id": 217,
+            "firstCraftElementId": "227",
+            "secondCraftElementId": "221",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Порох",
+            "id": 218,
+            "firstCraftElementId": "251",
+            "secondCraftElementId": "249",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Призрак",
+            "id": 219,
+            "firstCraftElementId": "199",
+            "secondCraftElementId": "77",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Птеродактиль",
+            "id": 220,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "66",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Птица",
+            "id": 221,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "330",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пустыня",
+            "id": 222,
+            "firstCraftElementId": "201",
+            "secondCraftElementId": "201",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пчела",
+            "id": 223,
+            "firstCraftElementId": "307",
+            "secondCraftElementId": "79",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пшеница",
+            "id": 224,
+            "firstCraftElementId": "197",
+            "secondCraftElementId": "281",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Пыль",
+            "id": 225,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Радиация",
+            "id": 226,
+            "firstCraftElementId": "8",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Радуга",
+            "id": 227,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "246",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Ракушка",
+            "id": 228,
+            "firstCraftElementId": "211",
+            "secondCraftElementId": "97",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Рис",
+            "id": 229,
+            "firstCraftElementId": "197",
+            "secondCraftElementId": "284",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Робин Гуд",
+            "id": 230,
+            "firstCraftElementId": "47",
+            "secondCraftElementId": "135",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Робот",
+            "id": 231,
+            "firstCraftElementId": "295",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Ром",
+            "id": 232,
+            "firstCraftElementId": "207",
+            "secondCraftElementId": "265",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Россия",
+            "id": 233,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "149",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Роща",
+            "id": 234,
+            "firstCraftElementId": "64",
+            "secondCraftElementId": "64",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Румыния",
+            "id": 235,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "283",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Рыба",
+            "id": 236,
+            "firstCraftElementId": "10",
+            "secondCraftElementId": "211",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Рыбак",
+            "id": 237,
+            "firstCraftElementId": "185",
+            "secondCraftElementId": "236",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Саламандра",
+            "id": 238,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "332",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сало",
+            "id": 239,
+            "firstCraftElementId": "185",
+            "secondCraftElementId": "248",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Самогон",
+            "id": 240,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "71",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Самолёт",
+            "id": 241,
+            "firstCraftElementId": "221",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Саудовская Аравия",
+            "id": 242,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "173",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сауна",
+            "id": 243,
+            "firstCraftElementId": "189",
+            "secondCraftElementId": "304",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сахар",
+            "id": 244,
+            "firstCraftElementId": "284",
+            "secondCraftElementId": "62",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Свекла",
+            "id": 245,
+            "firstCraftElementId": "295",
+            "secondCraftElementId": "284",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Свет",
+            "id": 246,
+            "firstCraftElementId": "133",
+            "secondCraftElementId": "324",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Светлячок",
+            "id": 247,
+            "firstCraftElementId": "246",
+            "secondCraftElementId": "79",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Свинья",
+            "id": 248,
+            "firstCraftElementId": "68",
+            "secondCraftElementId": "61",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Селитра",
+            "id": 249,
+            "firstCraftElementId": "87",
+            "secondCraftElementId": "169",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Семена",
+            "id": 250,
+            "firstCraftElementId": "77",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сера",
+            "id": 251,
+            "firstCraftElementId": "10",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Серебро",
+            "id": 252,
+            "firstCraftElementId": "152",
+            "secondCraftElementId": "144",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сигареты",
+            "id": 253,
+            "firstCraftElementId": "25",
+            "secondCraftElementId": "273",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Скарабей",
+            "id": 254,
+            "firstCraftElementId": "79",
+            "secondCraftElementId": "169",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Скорая помощь",
+            "id": 255,
+            "firstCraftElementId": "20",
+            "secondCraftElementId": "148",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Скорпион",
+            "id": 256,
+            "firstCraftElementId": "79",
+            "secondCraftElementId": "201",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Сладкая вода",
+            "id": 257,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "244",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Слизни",
+            "id": 258,
+            "firstCraftElementId": "155",
+            "secondCraftElementId": "19",
+            "category": "0",
+            "opened": false
+        },
+        {
+            "name": "Слон",
+            "id": 259,
+            "firstCraftElementId": "81",
+            "secondCraftElementId": "89",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Собака",
+            "id": 260,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "40",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сок",
+            "id": 261,
+            "firstCraftElementId": "302",
+            "secondCraftElementId": "62",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Солёная вода",
+            "id": 262,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "264",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Солнце",
+            "id": 263,
+            "firstCraftElementId": "118",
+            "secondCraftElementId": "171",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Соль",
+            "id": 264,
+            "firstCraftElementId": "110",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Спирт",
+            "id": 265,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "326",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Стекло",
+            "id": 266,
+            "firstCraftElementId": "201",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Страна",
+            "id": 267,
+            "firstCraftElementId": "52",
+            "secondCraftElementId": "52",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Стрекоза",
+            "id": 268,
+            "firstCraftElementId": "170",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Субмарина",
+            "id": 269,
+            "firstCraftElementId": "152",
+            "secondCraftElementId": "111",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Суши",
+            "id": 270,
+            "firstCraftElementId": "38",
+            "secondCraftElementId": "236",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сыр",
+            "id": 271,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "274",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Сэндвич",
+            "id": 272,
+            "firstCraftElementId": "305",
+            "secondCraftElementId": "168",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Табак",
+            "id": 273,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "281",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Творог",
+            "id": 274,
+            "firstCraftElementId": "106",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Текила",
+            "id": 275,
+            "firstCraftElementId": "312",
+            "secondCraftElementId": "265",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Телега",
+            "id": 276,
+            "firstCraftElementId": "119",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Термиты",
+            "id": 277,
+            "firstCraftElementId": "166",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Тесто",
+            "id": 278,
+            "firstCraftElementId": "164",
+            "secondCraftElementId": "1002",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Ткань",
+            "id": 279,
+            "firstCraftElementId": "90",
+            "secondCraftElementId": "320",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Торф",
+            "id": 280,
+            "firstCraftElementId": "64",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Трава",
+            "id": 281,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "190",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Трактор",
+            "id": 282,
+            "firstCraftElementId": "1003",
+            "secondCraftElementId": "190",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Трансильвания",
+            "id": 283,
+            "firstCraftElementId": "27",
+            "secondCraftElementId": "267",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Тростник",
+            "id": 284,
+            "firstCraftElementId": "281",
+            "secondCraftElementId": "19",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Труп",
+            "id": 285,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "328",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Убийца",
+            "id": 286,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "177",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Углекислый газ",
+            "id": 287,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "109",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Углерод",
+            "id": 288,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "70",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Уголь",
+            "id": 289,
+            "firstCraftElementId": "1001",
+            "secondCraftElementId": "64",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Украина",
+            "id": 290,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "239",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Уксус",
+            "id": 291,
+            "firstCraftElementId": "109",
+            "secondCraftElementId": "265",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Улитка",
+            "id": 292,
+            "firstCraftElementId": "312",
+            "secondCraftElementId": "228",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Упряжка",
+            "id": 293,
+            "firstCraftElementId": "81",
+            "secondCraftElementId": "276",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Уран",
+            "id": 294,
+            "firstCraftElementId": "152",
+            "secondCraftElementId": "226",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Учёный",
+            "id": 295,
+            "firstCraftElementId": "17",
+            "secondCraftElementId": "311",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Феникс",
+            "id": 296,
+            "firstCraftElementId": "221",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Философ",
+            "id": 297,
+            "firstCraftElementId": "115",
+            "secondCraftElementId": "295",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Филоофский камень",
+            "id": 298,
+            "firstCraftElementId": "297",
+            "secondCraftElementId": "97",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Финляндия",
+            "id": 299,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "243",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Фольксваген Жук",
+            "id": 300,
+            "firstCraftElementId": "148",
+            "secondCraftElementId": "79",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Франция",
+            "id": 301,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "317",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Фрукт",
+            "id": 302,
+            "firstCraftElementId": "64",
+            "secondCraftElementId": "307",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Фугу",
+            "id": 303,
+            "firstCraftElementId": "236",
+            "secondCraftElementId": "328",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Хижина",
+            "id": 304,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "97",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Хлеб",
+            "id": 305,
+            "firstCraftElementId": "278",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Холод",
+            "id": 306,
+            "firstCraftElementId": "176",
+            "secondCraftElementId": "31",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Цветок",
+            "id": 307,
+            "firstCraftElementId": "1002",
+            "secondCraftElementId": "250",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Цемент",
+            "id": 308,
+            "firstCraftElementId": "50",
+            "secondCraftElementId": "87",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Чай",
+            "id": 309,
+            "firstCraftElementId": "131",
+            "secondCraftElementId": "89",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Часы",
+            "id": 310,
+            "firstCraftElementId": "90",
+            "secondCraftElementId": "41",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Человек",
+            "id": 311,
+            "firstCraftElementId": "77",
+            "secondCraftElementId": "81",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Червь",
+            "id": 312,
+            "firstCraftElementId": "10",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Черепаха",
+            "id": 313,
+            "firstCraftElementId": "330",
+            "secondCraftElementId": "201",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Членистоногие",
+            "id": 314,
+            "firstCraftElementId": "211",
+            "secondCraftElementId": "1003",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Чугун",
+            "id": 315,
+            "firstCraftElementId": "289",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Шаман",
+            "id": 316,
+            "firstCraftElementId": "311",
+            "secondCraftElementId": "58",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Шампанское",
+            "id": 317,
+            "firstCraftElementId": "33",
+            "secondCraftElementId": "287",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Шаттл",
+            "id": 318,
+            "firstCraftElementId": "123",
+            "secondCraftElementId": "241",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Швейцария",
+            "id": 319,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "310",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Шерсть",
+            "id": 320,
+            "firstCraftElementId": "68",
+            "secondCraftElementId": "90",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Шоколад",
+            "id": 321,
+            "firstCraftElementId": "94",
+            "secondCraftElementId": "244",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Электрический скат",
+            "id": 322,
+            "firstCraftElementId": "324",
+            "secondCraftElementId": "236",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Электрический угорь",
+            "id": 323,
+            "firstCraftElementId": "324",
+            "secondCraftElementId": "83",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Электричество",
+            "id": 324,
+            "firstCraftElementId": "326",
+            "secondCraftElementId": "152",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Эль",
+            "id": 325,
+            "firstCraftElementId": "203",
+            "secondCraftElementId": "28",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Энергия",
+            "id": 326,
+            "firstCraftElementId": "1004",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": true
+        },
+        {
+            "name": "Ягода",
+            "id": 327,
+            "firstCraftElementId": "302",
+            "secondCraftElementId": "281",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Яд",
+            "id": 328,
+            "firstCraftElementId": "90",
+            "secondCraftElementId": "256",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Яичница",
+            "id": 329,
+            "firstCraftElementId": "330",
+            "secondCraftElementId": "1001",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Яйцо",
+            "id": 330,
+            "firstCraftElementId": "77",
+            "secondCraftElementId": "97",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Япония",
+            "id": 331,
+            "firstCraftElementId": "267",
+            "secondCraftElementId": "270",
+            "category": "1",
+            "opened": false
+        },
+        {
+            "name": "Ящерица",
+            "id": 332,
+            "firstCraftElementId": "330",
+            "secondCraftElementId": "19",
             "category": "1",
             "opened": false
         }
