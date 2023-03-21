@@ -55,7 +55,7 @@ public class DataCore : MonoBehaviour
             {
                 Grid.GetChild(currentItem).GetChild(0).GetChild(1).GetComponent<Text>().text = statItems[i].name;
                 
-                Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;
+                Color newColor = Grid.GetChild(currentItem).GetChild(0).GetChild(0).GetComponent<Image>().color;
                 newColor.a = 1;
                 Grid.GetChild(currentItem).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
 
@@ -95,13 +95,13 @@ public class DataCore : MonoBehaviour
             {
                 Grid.GetChild(currentItem).GetChild(0).GetChild(1).GetComponent<Text>().text = statItems[i].name;
                 
-                Color newColor = Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color;
+                Color newColor = Grid.GetChild(currentItem).GetChild(0).GetChild(0).GetComponent<Image>().color;
                 newColor.a = 1;
-                Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
+                Grid.GetChild(currentItem).GetChild(0).GetChild(0).GetComponent<Image>().color = newColor;
 
                 try
                 {
-                    Grid.GetChild(i).GetChild(0).GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(statItems[i].id.ToString());
+                    Grid.GetChild(currentItem).GetChild(0).GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(statItems[i].id.ToString());
                 }
                 catch (System.Exception)
                 { 

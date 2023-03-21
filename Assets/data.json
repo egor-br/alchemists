@@ -182,7 +182,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1002",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Больница",
@@ -1542,7 +1542,7 @@
             "firstCraftElementId": "1001",
             "secondCraftElementId": "1002",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Паровой двигатель",
@@ -2638,7 +2638,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "1001",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Ягода",
