@@ -13,6 +13,8 @@ public class MovingItems : MonoBehaviour
     public RectTransform leftItem;
     public RectTransform rightItem;
 
+    public RectTransform centerItem;
+
     private string leftItemName;
     private string rightItemName;
     
@@ -46,6 +48,11 @@ public class MovingItems : MonoBehaviour
             newColor.a = 0;
             rightItem.GetChild(0).GetComponent<Image>().color = newColor;
             rightItem.GetChild(0).GetComponent<Image>().enabled = false;
+
+            newColor = centerItem.GetChild(0).GetComponent<Image>().color;
+            newColor.a = 0;
+            centerItem.GetChild(0).GetComponent<Image>().color = newColor;
+            centerItem.GetChild(0).GetComponent<Image>().enabled = false;
 
             leftItemName = "";
             rightItemName = "";
@@ -108,6 +115,12 @@ public class MovingItems : MonoBehaviour
                  (DataCore.statItems[i].firstCraftElementId == rightItemId && DataCore.statItems[i].secondCraftElementId == leftItemId))
                 {
                     DataCore.statItems[i].opened = true;
+                    centerItem.GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(DataCore.statItems[i].id.ToString());
+                    Color newColor = centerItem.GetChild(0).GetComponent<Image>().color;
+
+                    newColor.a = 1;
+                    centerItem.GetChild(0).GetComponent<Image>().color = newColor;
+                    centerItem.GetChild(0).GetComponent<Image>().enabled = true;
                 }
 
             }
