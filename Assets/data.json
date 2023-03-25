@@ -182,7 +182,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1002",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Больница",
@@ -238,7 +238,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "326",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Вампир",
@@ -390,7 +390,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "189",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Германия",
@@ -1086,7 +1086,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1001",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Лампочка",
@@ -1438,7 +1438,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "189",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Огнестрельное оружие",
@@ -1542,7 +1542,7 @@
             "firstCraftElementId": "1001",
             "secondCraftElementId": "1002",
             "category": "0",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Паровой двигатель",
@@ -1830,7 +1830,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "1003",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Радиация",
@@ -2150,7 +2150,7 @@
             "firstCraftElementId": "1002",
             "secondCraftElementId": "326",
             "category": "2",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Стекло",
@@ -2638,7 +2638,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "1001",
             "category": "0",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Ягода",

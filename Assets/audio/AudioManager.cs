@@ -31,6 +31,31 @@ public class AudioManager : MonoBehaviour
     {
         Sound s = Array.Find(Sounds, Sound => Sound.Name == SoundName);
 
-        s.AudioSource.Play();
+        if (s.Name == "Main") 
+        {
+            if (DataHolder.music) s.AudioSource.Play();
+        }
+        else
+        {
+            if (DataHolder.sounds) s.AudioSource.Play();
+        }
+    }
+    public void SwitchMusic()
+    {
+        if (DataHolder.music)
+        {
+            DataHolder.music = false;
+            Sounds[0].AudioSource.Stop();
+        }
+        else
+        {
+            DataHolder.music = true;
+            Sounds[0].AudioSource.Play();
+        }
+    }
+    public void SwitchSounds()
+    {
+        if (DataHolder.sounds) DataHolder.sounds = false;
+        else DataHolder.sounds = true;
     }
 }
