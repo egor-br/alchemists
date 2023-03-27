@@ -182,7 +182,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1002",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Больница",
@@ -390,7 +390,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "189",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Германия",
