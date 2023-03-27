@@ -238,7 +238,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "326",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Вампир",
@@ -390,7 +390,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "189",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Германия",
@@ -1438,7 +1438,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "189",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Огнестрельное оружие",
@@ -1830,7 +1830,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "1003",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Радиация",
@@ -2150,7 +2150,7 @@
             "firstCraftElementId": "1002",
             "secondCraftElementId": "326",
             "category": "2",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Стекло",
@@ -2638,7 +2638,7 @@
             "firstCraftElementId": "1004",
             "secondCraftElementId": "1001",
             "category": "0",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Ягода",

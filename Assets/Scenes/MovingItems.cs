@@ -15,6 +15,8 @@ public class MovingItems : MonoBehaviour
 
     public RectTransform centerItem;
 
+    public Animator aim;
+
     private string leftItemName;
     private string rightItemName;
     
@@ -87,6 +89,7 @@ public class MovingItems : MonoBehaviour
     
     void Start()
     {
+
         leftItem.GetChild(0).GetComponent<Image>().enabled = false;
         rightItem.GetChild(0).GetComponent<Image>().enabled = false;
     }
@@ -114,13 +117,21 @@ public class MovingItems : MonoBehaviour
                 if((DataCore.statItems[i].firstCraftElementId == leftItemId && DataCore.statItems[i].secondCraftElementId == rightItemId) ||
                  (DataCore.statItems[i].firstCraftElementId == rightItemId && DataCore.statItems[i].secondCraftElementId == leftItemId))
                 {
-                    DataCore.statItems[i].opened = true;
-                    centerItem.GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(DataCore.statItems[i].id.ToString());
-                    Color newColor = centerItem.GetChild(0).GetComponent<Image>().color;
 
-                    newColor.a = 1;
-                    centerItem.GetChild(0).GetComponent<Image>().color = newColor;
-                    centerItem.GetChild(0).GetComponent<Image>().enabled = true;
+                    if (DataCore.statItems[i].opened != true)
+                    {
+                        //aim.Play("NewAnimationEl");
+                        aim.SetTrigger("fade");
+
+                        DataCore.statItems[i].opened = true;
+                        centerItem.GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>(DataCore.statItems[i].id.ToString());
+                        Color newColor = centerItem.GetChild(0).GetComponent<Image>().color;
+
+                        newColor.a = 1;
+                        centerItem.GetChild(0).GetComponent<Image>().color = newColor;
+                        centerItem.GetChild(0).GetComponent<Image>().enabled = true;
+                        break;
+                    }
                 }
 
             }
