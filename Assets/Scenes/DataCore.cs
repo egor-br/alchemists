@@ -32,7 +32,7 @@ public class DataCore : MonoBehaviour
     [SerializeField] private string fileName;
 
     private void Start() {
-        savePath = Path.Combine(Application.dataPath, fileName);
+        savePath = Path.Combine(Application.dataPath + "/Resources", fileName);
         loadFromFile();
         DataCore.currentCategory = "0";
         DataCore.oldCategory = "0";
