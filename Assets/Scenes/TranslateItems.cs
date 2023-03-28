@@ -18,18 +18,14 @@ public class TranslateItems : MonoBehaviour
     static public Vector3 endPos;
     public float step;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        _canvas = canvas;
-        progress = 1;
-        step = 0.01f;
-        transform.position = startPos;
-    }
+    static private bool enter = false;
 
-    // Update is called once per frame
-    void FixedUpdate()
-    {
+    IEnumerator timer() {
+        if(enter == false){
+            item.transform.localScale = new Vector3(1, 1, 1);
+            yield return new WaitForSeconds(1.0f);
+            enter = true;
+        }
         if(progress > 1)
         {
             Color newColor = item.GetChild(0).GetComponent<Image>().color;
@@ -45,11 +41,27 @@ public class TranslateItems : MonoBehaviour
             progress += step;
         }
     }
+    // Start is called before the first frame update
+    void Start()
+    {
+        _canvas = canvas;
+        progress = 1;
+        step = 0.01f;
+        transform.position = startPos;
+    }
+
+    // Update is called once per frame
+    void FixedUpdate()
+    {
+        StartCoroutine(timer());
+    }
 
     static public void reset(int category)
     {
+        enter = false;
         startPos = new Vector3(0,0,0);
         progress = 0;
+        
         if(_canvas.GetChild(category).GetComponent<RectTransform>().anchoredPosition3D.x < 0)
         {
             endPos = new Vector3(_canvas.GetChild(category).GetComponent<RectTransform>().anchoredPosition3D.x - 30,
