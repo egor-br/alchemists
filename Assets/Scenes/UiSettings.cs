@@ -12,7 +12,7 @@ public class UiSettings : MonoBehaviour
 {
     public GameObject progressBar;
     public TMP_Text openElements;
-    private int openElementsCount;
+    static public int openElementsCount;
     
     [Header("Item")]
     [SerializeField] public ItemStruct[] items;

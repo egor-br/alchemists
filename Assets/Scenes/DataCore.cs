@@ -9,6 +9,12 @@ using UnityEngine.UI;
 
 public class DataCore : MonoBehaviour
 {
+    public GameObject backImgaeEndGame;
+    public GameObject buttonOfEndGame;
+    public GameObject TextOfEndGame;
+
+    private bool closedEndGameInfo = false;
+    private int openElements = 0;
 
     public static ItemStruct[] statItems;
 
@@ -31,6 +37,7 @@ public class DataCore : MonoBehaviour
         DataCore.currentCategory = "0";
         DataCore.oldCategory = "0";
         showItems();
+        HideEndGameInfo();
     }
 
     private void Update() {
@@ -74,6 +81,43 @@ public class DataCore : MonoBehaviour
         }
         
         saveToFile();
+        if (!closedEndGameInfo)
+        {
+            for (int i = 0; i < DataCore.statItems.Length; i++)
+            {
+                if (DataCore.statItems[i].opened == true)
+                {
+                    openElements++;
+                }
+            }
+
+            if (openElements == 339)
+            {
+                ShowEndGameInfo();
+            }
+        }
+
+        openElements = 0;
+    }
+
+    public void ButtonCloseInfoEndGame()
+    {
+        HideEndGameInfo();
+        closedEndGameInfo = true;
+    }
+
+    private void ShowEndGameInfo()
+    {
+        backImgaeEndGame.SetActive(true);
+        buttonOfEndGame.SetActive(true);
+        TextOfEndGame.SetActive(true);
+    }
+
+    private void HideEndGameInfo()
+    {
+        backImgaeEndGame.SetActive(false);
+        buttonOfEndGame.SetActive(false);
+        TextOfEndGame.SetActive(false);
     }
 
     private void showItems()
