@@ -390,7 +390,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "189",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Германия",
@@ -1086,7 +1086,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1001",
             "category": "1",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Лампочка",
@@ -1542,7 +1542,7 @@
             "firstCraftElementId": "1001",
             "secondCraftElementId": "1002",
             "category": "0",
-            "opened": true
+            "opened": false
         },
         {
             "name": "Паровой двигатель",

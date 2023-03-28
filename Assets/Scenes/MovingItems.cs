@@ -117,7 +117,6 @@ public class MovingItems : MonoBehaviour
                 if((DataCore.statItems[i].firstCraftElementId == leftItemId && DataCore.statItems[i].secondCraftElementId == rightItemId) ||
                  (DataCore.statItems[i].firstCraftElementId == rightItemId && DataCore.statItems[i].secondCraftElementId == leftItemId))
                 {
-
                     if (DataCore.statItems[i].opened != true)
                     {
                         //aim.Play("NewAnimationEl");
@@ -130,6 +129,8 @@ public class MovingItems : MonoBehaviour
                         newColor.a = 1;
                         centerItem.GetChild(0).GetComponent<Image>().color = newColor;
                         centerItem.GetChild(0).GetComponent<Image>().enabled = true;
+
+                        TranslateItems.reset((int.Parse(DataCore.statItems[i].category) + 1));
                         break;
                     }
                 }
