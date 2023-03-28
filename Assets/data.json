@@ -182,7 +182,7 @@
             "firstCraftElementId": "1003",
             "secondCraftElementId": "1002",
             "category": "1",
-            "opened": false
+            "opened": true
         },
         {
             "name": "Больница",
