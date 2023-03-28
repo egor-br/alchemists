@@ -108,6 +108,12 @@ public class DataCore : MonoBehaviour
 
     private void ShowEndGameInfo()
     {
+        int count = 32;
+        for (int i = 0; i < count; i++)
+        {
+            Grid.GetChild(i).GetChild(0).GetChild(2).GetComponent<Button>().enabled = false;
+        }
+        //rect.GetChild(0).GetComponent<Image>().enabled
         backImgaeEndGame.SetActive(true);
         buttonOfEndGame.SetActive(true);
         TextOfEndGame.SetActive(true);
@@ -115,6 +121,11 @@ public class DataCore : MonoBehaviour
 
     private void HideEndGameInfo()
     {
+        int count = 32;
+        for (int i = 0; i < count; i++)
+        {
+            Grid.GetChild(i).GetChild(0).GetChild(2).GetComponent<Button>().enabled = true;
+        }
         backImgaeEndGame.SetActive(false);
         buttonOfEndGame.SetActive(false);
         TextOfEndGame.SetActive(false);
