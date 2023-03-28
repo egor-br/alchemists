@@ -10,6 +10,7 @@ using TMPro;
 
 public class UiSettings : MonoBehaviour
 {
+    public GameObject progressBar;
     public TMP_Text openElements;
     private int openElementsCount;
     
@@ -57,7 +58,9 @@ public class UiSettings : MonoBehaviour
                     openElementsCount++;
                 }
             }
-            openElements.text = openElementsCount.ToString() + "/336";
+            openElements.text = openElementsCount.ToString() + "/339";
+            progressBar.GetComponent<RectTransform>().anchoredPosition = new Vector2((865f/339f) * (openElementsCount / 2f) - 561.5f, progressBar.GetComponent<RectTransform>().anchoredPosition.y);
+            progressBar.GetComponent<SpriteRenderer>().size = new Vector2((865f / 339f) * (openElementsCount), 50);
         }
         catch (System.Exception)
         {
